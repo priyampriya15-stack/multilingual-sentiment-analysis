@@ -1,0 +1,7 @@
+{
+  "codemixed_macro_f1": 1.0,
+  "codemixed_accuracy": 1.0,
+  "native_indic_macro_f1": 0.9818,
+  "native_indic_accuracy": 0.9842,
+  "f1_gap": -0.0182
+}

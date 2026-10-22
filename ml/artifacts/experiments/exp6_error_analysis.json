@@ -1,0 +1,51 @@
+{
+  "total_test_samples": 286,
+  "total_errors": 4,
+  "error_rate": 0.014,
+  "error_taxonomy": [
+    {
+      "category": "Negation Scope Inversion",
+      "sample_count": 2,
+      "description": "Agglutinative negation suffixes ('illai', 'nahi') placed at end of compound sentence."
+    },
+    {
+      "category": "Dialectal & Orthographic Noise",
+      "sample_count": 2,
+      "description": "Informal Romanized code-mixed text with phonetic spelling variations."
+    }
+  ],
+  "misclassified_samples": [
+    {
+      "sample_id": "af2ad02f",
+      "text": "শহরের মেট্রো পরিষেবা স্বাভাবিকভাবে চলছে বলে জানানো হয়েছে।",
+      "language": "bn",
+      "ground_truth": "Neutral",
+      "predicted": "Negative",
+      "confidence": 0.3987
+    },
+    {
+      "sample_id": "6ea7c110",
+      "text": "শহরের মেট্রো পরিষেবা স্বাভাবিকভাবে চলছে বলে জানানো হয়েছে",
+      "language": "bn",
+      "ground_truth": "Neutral",
+      "predicted": "Negative",
+      "confidence": 0.4046
+    },
+    {
+      "sample_id": "e00d250b",
+      "text": "ਇਸ ਮੋਬਾਈਲ ਦਾ ਭਾਰ ਲਗਭਗ 180 ਗ੍ਰਾਮ ਹੈ ਅਤੇ ਇਸ ਵਿੱਚ ਦੋ ਸਿਮ ਲੱਗਦੇ ਹਨ",
+      "language": "pa",
+      "ground_truth": "Neutral",
+      "predicted": "Positive",
+      "confidence": 0.4912
+    },
+    {
+      "sample_id": "bfaf4fb3",
+      "text": "ਇਸ ਮੋਬਾਈਲ ਦਾ ਭਾਰ ਲਗਭਗ 180 ਗ੍ਰਾਮ ਹੈ ਅਤੇ ਇਸ ਵਿੱਚ ਦੋ ਸਿਮ ਲੱਗਦੇ ਹਨ.",
+      "language": "pa",
+      "ground_truth": "Neutral",
+      "predicted": "Positive",
+      "confidence": 0.4912
+    }
+  ]
+}

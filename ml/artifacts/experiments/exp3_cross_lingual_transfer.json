@@ -1,0 +1,29 @@
+{
+  "source_languages": "Indo-Aryan (Hindi, Bengali, Marathi, Gujarati, Punjabi, Odia, Assamese)",
+  "target_languages": "Dravidian (Tamil, Telugu, Malayalam, Kannada)",
+  "target_sample_count": 85,
+  "zero_shot_accuracy": 0.9059,
+  "zero_shot_macro_f1": 0.9072,
+  "per_language_f1": {
+    "kn": {
+      "samples": 21,
+      "accuracy": 0.9048,
+      "macro_f1": 0.9153
+    },
+    "ml": {
+      "samples": 20,
+      "accuracy": 0.8,
+      "macro_f1": 0.7111
+    },
+    "ta": {
+      "samples": 23,
+      "accuracy": 1.0,
+      "macro_f1": 1.0
+    },
+    "te": {
+      "samples": 21,
+      "accuracy": 0.9048,
+      "macro_f1": 0.9213
+    }
+  }
+}

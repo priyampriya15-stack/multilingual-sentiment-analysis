@@ -1,0 +1,120 @@
+{
+  "accuracy": 0.986,
+  "macro_f1": 0.9843,
+  "weighted_f1": 0.9859,
+  "macro_precision": 0.9878,
+  "macro_recall": 0.9815,
+  "weighted_precision": 0.9863,
+  "weighted_recall": 0.986,
+  "classes": [
+    "Positive",
+    "Negative",
+    "Neutral"
+  ],
+  "per_class": {
+    "Positive": {
+      "precision": 0.9818,
+      "recall": 1.0,
+      "f1_score": 0.9908,
+      "support": 108
+    },
+    "Negative": {
+      "precision": 0.9815,
+      "recall": 1.0,
+      "f1_score": 0.9907,
+      "support": 106
+    },
+    "Neutral": {
+      "precision": 1.0,
+      "recall": 0.9444,
+      "f1_score": 0.9714,
+      "support": 72
+    }
+  },
+  "confusion_matrix": [
+    [
+      108,
+      0,
+      0
+    ],
+    [
+      0,
+      106,
+      0
+    ],
+    [
+      2,
+      2,
+      68
+    ]
+  ],
+  "per_language": {
+    "as": {
+      "samples": 17,
+      "accuracy": 1.0,
+      "macro_f1": 1.0
+    },
+    "bn": {
+      "samples": 18,
+      "accuracy": 0.8889,
+      "macro_f1": 0.8472
+    },
+    "en": {
+      "samples": 35,
+      "accuracy": 1.0,
+      "macro_f1": 1.0
+    },
+    "gu": {
+      "samples": 22,
+      "accuracy": 1.0,
+      "macro_f1": 1.0
+    },
+    "hi": {
+      "samples": 18,
+      "accuracy": 1.0,
+      "macro_f1": 1.0
+    },
+    "hi-en": {
+      "samples": 33,
+      "accuracy": 1.0,
+      "macro_f1": 1.0
+    },
+    "kn": {
+      "samples": 21,
+      "accuracy": 1.0,
+      "macro_f1": 1.0
+    },
+    "ml": {
+      "samples": 20,
+      "accuracy": 1.0,
+      "macro_f1": 1.0
+    },
+    "mr": {
+      "samples": 21,
+      "accuracy": 1.0,
+      "macro_f1": 1.0
+    },
+    "or": {
+      "samples": 18,
+      "accuracy": 1.0,
+      "macro_f1": 1.0
+    },
+    "pa": {
+      "samples": 19,
+      "accuracy": 0.8947,
+      "macro_f1": 0.875
+    },
+    "ta": {
+      "samples": 23,
+      "accuracy": 1.0,
+      "macro_f1": 1.0
+    },
+    "te": {
+      "samples": 21,
+      "accuracy": 1.0,
+      "macro_f1": 1.0
+    }
+  },
+  "inference_latency_ms": 0.02,
+  "training_time_sec": 2.8
+}

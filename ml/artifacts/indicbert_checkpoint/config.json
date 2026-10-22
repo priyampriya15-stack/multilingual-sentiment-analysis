@@ -1,0 +1,18 @@
+{
+  "model_id": "indicbert",
+  "name": "IndicBERT (AI4Bharat)",
+  "vocab_size": 10363,
+  "d_model": 192,
+  "nhead": 6,
+  "num_encoder_layers": 2,
+  "dim_feedforward": 512,
+  "num_classes": 3,
+  "max_seq_len": 96,
+  "classes": [
+    "Positive",
+    "Negative",
+    "Neutral"
+  ],
+  "training_time_sec": 219.25,
+  "created_at": "2026-10-22 11:25:39"
+}

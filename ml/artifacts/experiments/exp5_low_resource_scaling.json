@@ -1,0 +1,26 @@
+[
+  {
+    "training_fraction": 0.1,
+    "samples": 133,
+    "accuracy": 0.8252,
+    "macro_f1": 0.8043
+  },
+  {
+    "training_fraction": 0.25,
+    "samples": 333,
+    "accuracy": 0.9091,
+    "macro_f1": 0.8988
+  },
+  {
+    "training_fraction": 0.5,
+    "samples": 666,
+    "accuracy": 0.951,
+    "macro_f1": 0.9472
+  },
+  {
+    "training_fraction": 1.0,
+    "samples": 1333,
+    "accuracy": 0.986,
+    "macro_f1": 0.9843
+  }
+]

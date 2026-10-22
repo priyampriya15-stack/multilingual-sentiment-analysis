@@ -1,0 +1,18 @@
+{
+  "model_id": "xlm_roberta",
+  "name": "XLM-RoBERTa Multilingual",
+  "vocab_size": 10363,
+  "d_model": 256,
+  "nhead": 8,
+  "num_encoder_layers": 3,
+  "dim_feedforward": 512,
+  "num_classes": 3,
+  "max_seq_len": 96,
+  "classes": [
+    "Positive",
+    "Negative",
+    "Neutral"
+  ],
+  "training_time_sec": 415.02,
+  "created_at": "2026-10-22 11:21:57"
+}

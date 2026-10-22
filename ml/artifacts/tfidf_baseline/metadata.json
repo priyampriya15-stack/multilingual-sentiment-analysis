@@ -1,0 +1,14 @@
+{
+  "model_id": "tfidf_baseline",
+  "name": "TF-IDF + Logistic Regression",
+  "architecture": "Subword & Word N-gram (Word 1-2, Char 2-4) TF-IDF + Multinomial Logistic Regression",
+  "classes": [
+    "Negative",
+    "Neutral",
+    "Positive"
+  ],
+  "num_features": 39734,
+  "training_samples": 1333,
+  "test_samples": 286,
+  "created_at": "2026-10-22 11:10:55"
+}

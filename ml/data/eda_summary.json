@@ -1,0 +1,212 @@
+{
+  "dataset_name": "Indian Languages Multilingual Sentiment Benchmark",
+  "total_samples": 1905,
+  "languages_count": 13,
+  "missing_values": {
+    "text": 0,
+    "sentiment": 0,
+    "language": 0
+  },
+  "duplicate_count": 0,
+  "character_length_stats": {
+    "min": 40,
+    "max": 157,
+    "mean": 73.04,
+    "median": 64.0,
+    "std": 24.67
+  },
+  "word_count_stats": {
+    "min": 4,
+    "max": 24,
+    "mean": 11.34,
+    "median": 10.0,
+    "std": 4.38
+  },
+  "sentiment_distribution": {
+    "Negative": 717,
+    "Positive": 709,
+    "Neutral": 479
+  },
+  "sentiment_percentages": {
+    "Negative": 37.64,
+    "Positive": 37.22,
+    "Neutral": 25.14
+  },
+  "language_distribution": {
+    "en": 225,
+    "hi-en": 220,
+    "ml": 143,
+    "ta": 143,
+    "gu": 142,
+    "te": 142,
+    "kn": 141,
+    "mr": 137,
+    "hi": 125,
+    "bn": 123,
+    "or": 122,
+    "as": 121,
+    "pa": 121
+  },
+  "language_percentages": {
+    "en": 11.81,
+    "hi-en": 11.55,
+    "ml": 7.51,
+    "ta": 7.51,
+    "gu": 7.45,
+    "te": 7.45,
+    "kn": 7.4,
+    "mr": 7.19,
+    "hi": 6.56,
+    "bn": 6.46,
+    "or": 6.4,
+    "as": 6.35,
+    "pa": 6.35
+  },
+  "language_sentiment_breakdown": {
+    "gu": {
+      "total": 142,
+      "Positive": 56,
+      "Negative": 56,
+      "Neutral": 30,
+      "avg_char_length": 63.5,
+      "avg_words": 11.2
+    },
+    "hi-en": {
+      "total": 220,
+      "Positive": 73,
+      "Negative": 74,
+      "Neutral": 73,
+      "avg_char_length": 113.0,
+      "avg_words": 18.5
+    },
+    "te": {
+      "total": 142,
+      "Positive": 55,
+      "Negative": 57,
+      "Neutral": 30,
+      "avg_char_length": 56.8,
+      "avg_words": 7.9
+    },
+    "kn": {
+      "total": 141,
+      "Positive": 54,
+      "Negative": 57,
+      "Neutral": 30,
+      "avg_char_length": 61.0,
+      "avg_words": 7.6
+    },
+    "ml": {
+      "total": 143,
+      "Positive": 55,
+      "Negative": 58,
+      "Neutral": 30,
+      "avg_char_length": 57.7,
+      "avg_words": 6.5
+    },
+    "or": {
+      "total": 122,
+      "Positive": 45,
+      "Negative": 47,
+      "Neutral": 30,
+      "avg_char_length": 60.9,
+      "avg_words": 9.4
+    },
+    "mr": {
+      "total": 137,
+      "Positive": 55,
+      "Negative": 53,
+      "Neutral": 29,
+      "avg_char_length": 62.1,
+      "avg_words": 9.5
+    },
+    "as": {
+      "total": 121,
+      "Positive": 45,
+      "Negative": 46,
+      "Neutral": 30,
+      "avg_char_length": 58.4,
+      "avg_words": 9.7
+    },
+    "en": {
+      "total": 225,
+      "Positive": 75,
+      "Negative": 72,
+      "Neutral": 78,
+      "avg_char_length": 112.2,
+      "avg_words": 16.6
+    },
+    "bn": {
+      "total": 123,
+      "Positive": 47,
+      "Negative": 46,
+      "Neutral": 30,
+      "avg_char_length": 59.9,
+      "avg_words": 9.2
+    },
+    "pa": {
+      "total": 121,
+      "Positive": 45,
+      "Negative": 47,
+      "Neutral": 29,
+      "avg_char_length": 60.6,
+      "avg_words": 12.3
+    },
+    "hi": {
+      "total": 125,
+      "Positive": 48,
+      "Negative": 47,
+      "Neutral": 30,
+      "avg_char_length": 69.8,
+      "avg_words": 14.4
+    },
+    "ta": {
+      "total": 143,
+      "Positive": 56,
+      "Negative": 57,
+      "Neutral": 30,
+      "avg_char_length": 60.7,
+      "avg_words": 7.3
+    }
+  },
+  "split_distribution": {
+    "train": 1333,
+    "val": 286,
+    "test": 286
+  },
+  "split_sentiment_check": {
+    "train": {
+      "total": 1333,
+      "distribution": {
+        "Negative": 502,
+        "Positive": 496,
+        "Neutral": 335
+      }
+    },
+    "val": {
+      "total": 286,
+      "distribution": {
+        "Negative": 109,
+        "Positive": 105,
+        "Neutral": 72
+      }
+    },
+    "test": {
+      "total": 286,
+      "distribution": {
+        "Positive": 108,
+        "Negative": 106,
+        "Neutral": 72
+      }
+    }
+  },
+  "length_histogram": {
+    "0-25": 0,
+    "26-50": 129,
+    "51-75": 1311,
+    "76-100": 113,
+    "101-150": 350,
+    "151-200": 2,
+    "201-300": 0,
+    "300+": 0
+  }
+}

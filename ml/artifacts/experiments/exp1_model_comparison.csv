@@ -1,0 +1,4 @@
+model_id,accuracy,macro_f1,weighted_f1,precision,recall,latency_ms
+tfidf_baseline,0.986,0.9843,0.9859,0.9878,0.9815,9.34
+xlm_roberta,0.9196,0.925,0.9202,0.9355,0.9227,15.44
+indicbert,0.9266,0.9218,0.9267,0.9213,0.9224,10.56

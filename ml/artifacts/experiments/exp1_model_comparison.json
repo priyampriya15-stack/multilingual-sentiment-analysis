@@ -1,0 +1,29 @@
+[
+  {
+    "model_id": "tfidf_baseline",
+    "accuracy": 0.986,
+    "macro_f1": 0.9843,
+    "weighted_f1": 0.9859,
+    "precision": 0.9878,
+    "recall": 0.9815,
+    "latency_ms": 9.34
+  },
+  {
+    "model_id": "xlm_roberta",
+    "accuracy": 0.9196,
+    "macro_f1": 0.925,
+    "weighted_f1": 0.9202,
+    "precision": 0.9355,
+    "recall": 0.9227,
+    "latency_ms": 15.44
+  },
+  {
+    "model_id": "indicbert",
+    "accuracy": 0.9266,
+    "macro_f1": 0.9218,
+    "weighted_f1": 0.9267,
+    "precision": 0.9213,
+    "recall": 0.9224,
+    "latency_ms": 10.56
+  }
+]

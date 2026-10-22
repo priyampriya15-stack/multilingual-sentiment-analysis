@@ -1,0 +1,47 @@
+{
+  "models": [
+    {
+      "id": "tfidf_baseline",
+      "name": "TF-IDF + Logistic Regression",
+      "type": "Traditional ML Baseline",
+      "architecture": "Subword & Word N-Gram (1-3) TF-IDF Vectorizer with L2-Regularized Multinomial Logistic Regression",
+      "parameters": "~45,000 features",
+      "supported_languages": ["en", "hi", "ta", "te", "ml", "kn", "bn", "mr", "gu", "pa", "or", "as", "hi-en", "ta-en"],
+      "checkpoint_path": "ml/artifacts/tfidf_baseline/model.joblib",
+      "vectorizer_path": "ml/artifacts/tfidf_baseline/vectorizer.joblib",
+      "status": "Available",
+      "description": "High-efficiency multilingual baseline using subword char n-grams to handle agglutinative morphology and orthographic variations across Indian languages.",
+      "strengths": "Sub-millisecond latency, zero GPU requirement, robust across low-resource vocabulary overlap.",
+      "limitations": "Lacks deep contextual semantic representations and negation scope tracking in long compound sentences."
+    },
+    {
+      "id": "xlm_roberta",
+      "name": "XLM-RoBERTa Multilingual",
+      "type": "Transformer Baseline",
+      "architecture": "Cross-lingual RoBERTa (12 layers, 768 hidden, 12 heads, 250k SentencePiece BPE vocabulary)",
+      "parameters": "~278 Million",
+      "huggingface_id": "xlm-roberta-base",
+      "supported_languages": ["en", "hi", "ta", "te", "ml", "kn", "bn", "mr", "gu", "pa", "or", "as", "hi-en"],
+      "checkpoint_path": "ml/artifacts/xlm_roberta_checkpoint",
+      "status": "Available",
+      "description": "State-of-the-art cross-lingual masked language model pre-trained on 2.5TB of filtered CommonCrawl data covering 100 languages including major Indian languages.",
+      "strengths": "Deep cross-lingual contextual representations, strong zero-shot transfer across language families.",
+      "limitations": "High parameter count and compute footprint; sub-optimal subword segmentation on lower-resource Indic scripts compared to native Indic models."
+    },
+    {
+      "id": "indicbert",
+      "name": "IndicBERT (AI4Bharat)",
+      "type": "Dedicated Indic Transformer",
+      "architecture": "ALBERT-based parameter-sharing multilingual model pre-trained on IndicCorp (12 layers, 768 hidden, 12 heads)",
+      "parameters": "~12 Million (ALBERT architecture with shared layer parameters)",
+      "huggingface_id": "ai4bharat/indic-bert",
+      "supported_languages": ["hi", "ta", "te", "ml", "kn", "bn", "mr", "gu", "pa", "or", "as"],
+      "checkpoint_path": "ml/artifacts/indicbert_checkpoint",
+      "status": "Available",
+      "description": "Compact multilingual model explicitly engineered for Indian languages, trained on 9 billion tokens across 12 Indic languages with native Indic vocabulary.",
+      "strengths": "Compact footprint (~33MB weights), faster inference, superior morphological tokenization for Dravidian and Indo-Aryan scripts.",
+      "limitations": "Limited support for English-dominant code-mix without joint English-Indic alignment."
+    }
+  ],
+  "default_model": "tfidf_baseline"
+}

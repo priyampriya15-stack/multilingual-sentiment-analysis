@@ -1,0 +1,287 @@
+sample_id,text,language,sentiment,source,split
+545213dd,"Teacher bohot achhe se explain karte hain, concepts easily samajh aa gaye.",hi-en,Positive,curated_indic_benchmark,test
+006808e4,"സാധനം പൊട്ടിയ നിലയിലാണ് ലഭിച്ചത്, റീഫണ്ട് നൽകാൻ തയ്യാറല്ല.",ml,Negative,curated_indic_benchmark,test
+b70d83de,"ખૂબ જ ઉત્કૃષ્ટ ગુણવત્તા અને સમયસર સુરક્ષિત ડિલિવરી, હું ખૂબ ખુશ છું ⭐⭐⭐⭐⭐",gu,Positive,curated_indic_augmented,test
+30c8e7d2,"इस किताब ने मेरी सोच बदल दी, हर किसी को इसे एक बार ज़रूर पढ़ना चाहिए 👍",hi,Positive,curated_indic_augmented,test
+d6c6c1fa,मौसम विभाग के अनुसार कल शहर में आंशिक रूप से बादल छाए रहेंगे।,hi,Neutral,curated_indic_benchmark,test
+f70fcc94,"புத்தகத்தின் உள்ளடக்கம் மிகவும் பயனுள்ளது, அனைவரும் படிக்க வேண்டும்।",ta,Positive,curated_indic_augmented,test
+2c4244c5,"Worst decision ever: the software crashed five times in one hour, completely unusable. Totally unacceptable.",en,Negative,curated_indic_augmented,test
+1d15257a,मंत्रालयात आज दुपारी महत्त्वाची बैठक आयोजित करण्यात आली आहे,mr,Neutral,curated_indic_augmented,test
+c45dfc2a,It was officially stated that the user manual contains detailed installation guidelines in chapter four. during regular business hours.,en,Neutral,curated_indic_augmented,test
+4fcf2a9d,"திரைக்கதை மிகவும் சலிப்பைத் தருகிறது, நேரம் வீணானது.",ta,Negative,curated_indic_benchmark,test
+05c30da8,ગ્રાહક સેવાના કર્મચારીઓએ ખૂબ જ નમ્રતાથી મારી સમસ્યાનું તાત્કાલિક નિરાકરણ કર્યું!!,gu,Positive,curated_indic_augmented,test
+e46d146f,মোবাইলটোৰ কেমেৰা আৰু বেটাৰী লাইফ সঁচাকৈয়ে প্ৰশংসনীয়!,as,Positive,curated_indic_augmented,test
+98d6d988,ಕರ್ನಾಟಕ ಸರ್ಕಾರವು ಹೊಸ ಕೈಗಾರಿಕಾ ನೀತಿಯನ್ನು ಪ್ರಕಟಿಸಿದೆ।,kn,Neutral,curated_indic_augmented,test
+545ed704,"Regarding the inquiry, the package arrived on wednesday following standard delivery timelines. as confirmed by authorities.",en,Neutral,curated_indic_augmented,test
+50a0374a,"மிகவும் குறைவான விலையில் அதிக தரம், நிச்சயம் மீண்டும் வாங்குவேன்!!",ta,Positive,curated_indic_augmented,test
+742616ef,ग्राहक सेवा के अधिकारियों ने मेरी समस्या को बहुत ही विनम्रता और तेज़ी से सुलझाया।,hi,Positive,curated_indic_benchmark,test
+5d89659a,ಈ ಉಪಕರಣದ ತೂಕ ಸುಮಾರು 250 ಗ್ರಾಂ ಮತ್ತು ಕಪ್ಪು ಬಣ್ಣದಲ್ಲಿ ಲಭ್ಯವಿದೆ,kn,Neutral,curated_indic_augmented,test
+77e0fd09,"Beware of this: Awful build quality, the plastic feels cheap and broke on day three. Complete waste of resources.",en,Negative,curated_indic_augmented,test
+e2cd2af5,ഈ സിനിമയുടെ തിരക്കഥയും സംവിധാനവും ഗംഭീരമായിരിക്കുന്നു 👍,ml,Positive,curated_indic_augmented,test
+0b0aeaad,ఉపాధ్యాయులు ప్రతి విషయాన్ని ఎంతో వివరంగా బోధిస్తున్నారు ⭐⭐⭐⭐⭐,te,Positive,curated_indic_augmented,test
+e66e9633,"ਬਹੁਤ ਹੀ ਵਧੀਆ ਕੁਆਲਿਟੀ ਅਤੇ ਸਮੇਂ ਸਿਰ ਡਿਲੀਵਰੀ, ਮੈਂ ਪੂਰੀ ਤਰ੍ਹਾਂ ਸੰਤੁਸ਼ਟ ਹਾਂ!!",pa,Positive,curated_indic_augmented,test
+7be71cb9,"I must honestly say that Customer care team ne meri problem 5 minutes mein solve kar di, awesome service!",hi-en,Positive,curated_indic_augmented,test
+30b78b45,ಪುಸ್ತಕವು ಪ್ರತಿಯೊಬ್ಬರಿಗೂ ಸ್ಫೂರ್ತಿ ನೀಡುವ ವಿಚಾರಗಳನ್ನು ಒಳಗೊಂಡಿದೆ 👍,kn,Positive,curated_indic_augmented,test
+63d3aeb9,"ଗ୍ରାହକ ସେବା ନମ୍ବରରେ ଫୋନ ଲାଗୁନାହିଁ, ଏହା ଅତ୍ୟନ୍ତ ଅସନ୍ତୋଷଜନକ ⚠️",or,Negative,curated_indic_augmented,test
+5a19a6e9,"Extremely frustrated! App baar baar crash ho raha hai update ke baad, worst experience ever. Total regret.",hi-en,Negative,curated_indic_augmented,test
+2b1dca0f,"பணம் வீணானது, தரம் சற்றும் திருப்திகரமாக இல்லை.",ta,Negative,curated_indic_benchmark,test
+d651bb4e,"హోటల్ లో కనీస సదుపాయాలు కూడా లేవు, చాలా అసంతృప్తి చెందాను 👎",te,Negative,curated_indic_augmented,test
+ffad3c3e,റെയിൽവേ ട്രാക്കിലെ അറ്റകുറ്റപ്പണികൾ കാരണം ട്രെയിനുകൾ വൈകിയോടുന്നു,ml,Neutral,curated_indic_augmented,test
+96f4f608,କମ୍ ଖର୍ଚ୍ଚରେ ଏତେ ଭଲ ସେବା ପାଇ ମୁଁ ବହୁତ ଉପକୃତ ହୋଇଛି 👍,or,Positive,curated_indic_augmented,test
+6695fba9,Please note that Device ka color matte black hai aur isme 128 GB internal storage hai. as per official guidelines.,hi-en,Neutral,curated_indic_augmented,test
+29659ab1,ડિલિવરી ખૂબ મોડી થઈ અને અંદરથી સામાન તૂટેલો નીકળ્યો।,gu,Negative,curated_indic_augmented,test
+18c884bc,"ખૂબ જ ઉત્કૃષ્ટ ગુણવત્તા અને સમયસર સુરક્ષિત ડિલિવરી, હું ખૂબ ખુશ છું!!",gu,Positive,curated_indic_augmented,test
+8ad3f6e9,ಊಟ ತುಂಬಾ ರುಚಿಕರವಾಗಿತ್ತು ಮತ್ತು ಹೋಟೆಲ್ ವಾತಾವರಣ ಸುಂದರವಾಗಿದೆ.,kn,Positive,curated_indic_benchmark,test
+d3dab73a,"Based on the schedule, the product is available in black, silver, and dark blue variations. subject to routine procedures.",en,Neutral,curated_indic_augmented,test
+af2ad02f,শহরের মেট্রো পরিষেবা স্বাভাবিকভাবে চলছে বলে জানানো হয়েছে।,bn,Neutral,curated_indic_benchmark,test
+325451e0,વોરંટી કાર્ડ હોવા છતાં સર્વિસ સેન્ટર વાળા રિપેર કરવાની ના પાડે છે.,gu,Negative,curated_indic_benchmark,test
+a02c81de,റെയിൽവേ ട്രാക്കിലെ അറ്റകുറ്റപ്പണികൾ കാരണം ട്രെയിനുകൾ വൈകിയോടുന്നു।,ml,Neutral,curated_indic_augmented,test
+945975ef,কাস্টমার কেয়ার টিম খুব দ্রুত এবং আন্তরিকতার সাথে আমার সমস্যার সমাধান করেছে ⭐⭐⭐⭐⭐,bn,Positive,curated_indic_augmented,test
+c63297b9,ಪುಸ್ತಕವು ಪ್ರತಿಯೊಬ್ಬರಿಗೂ ಸ್ಫೂರ್ತಿ ನೀಡುವ ವಿಚಾರಗಳನ್ನು ಒಳಗೊಂಡಿದೆ!,kn,Positive,curated_indic_augmented,test
+6fc36cb2,"ಹಣ ಮರುಪಾವತಿಸಲು ತಿಂಗಳುಗಳಿಂದ ಕಾಯಿಸುತ್ತಿದ್ದಾರೆ, ಇದು ವಂಚನೆ 😠",kn,Negative,curated_indic_augmented,test
+3494f7a4,ਤਸਵੀਰ ਵਿੱਚ ਦਿਖਾਈ ਚੀਜ਼ ਨਾਲੋਂ ਅਸਲ ਚੀਜ਼ ਬਹੁਤ ਹਲਕੀ ਕੁਆਲਿਟੀ ਦੀ ਹੈ!!,pa,Negative,curated_indic_augmented,test
+0242ecc0,"వస్తువు నాణ్యత చాలా దారుణంగా ఉంది, డబ్బులు వృధా అయ్యాయి।",te,Negative,curated_indic_augmented,test
+9a1c470a,"In standard conditions, Document verification ke liye Aadhaar card aur original certificates carry karna mandatory hai. without further modifications.",hi-en,Neutral,curated_indic_augmented,test
+8c9900ce,"My honest review is that Yeh update install karne ke baad battery backup aur bhi badh gaya hai, love it! Truly remarkable!",hi-en,Positive,curated_indic_augmented,test
+e831f572,"One word: brilliant. Yeh update install karne ke baad battery backup aur bhi badh gaya hai, love it! Worth every rupee.",hi-en,Positive,curated_indic_augmented,test
+9f308832,"પેકેજિંગ ખૂબ જ મજબૂત હતું, સામાન સુરક્ષિત પહોંચ્યો!",gu,Positive,curated_indic_augmented,test
+044f9910,"Refund ke liye roz mail karo par koi reply nahi deta, disgusting policy.",hi-en,Negative,curated_indic_benchmark,test
+ae60fe6c,"பயன்பாடு அடிக்கடி செயலிழக்கிறது, மிகவும் எரிச்சலூட்டுகிறது 😠",ta,Negative,curated_indic_augmented,test
+6b12edfe,The documented parameters show that College exams next month ke second week se conduct honge notification aa gaya hai. based on current metrics.,hi-en,Neutral,curated_indic_augmented,test
+c6f933af,शिक्षक बहुत ही अनुभवी हैं और हर विषय को बहुत सरलता से समझाते हैं 👍,hi,Positive,curated_indic_augmented,test
+33187bb2,"According to the records, the user manual contains detailed installation guidelines in chapter four. currently under observation.",en,Neutral,curated_indic_augmented,test
+30552ddf,Train New Delhi station se time pe depart ho chuki hai platform number 4 se.,hi-en,Neutral,curated_indic_benchmark,test
+ee2eb911,मध्य रेल्वेच्या लोकल फेऱ्या नियोजित वेळेनुसार धावत आहेत,mr,Neutral,curated_indic_augmented,test
+a1294a82,It was officially stated that the package arrived on wednesday following standard delivery timelines. during regular business hours.,en,Neutral,curated_indic_augmented,test
+e200e230,Please note that Document verification ke liye Aadhaar card aur original certificates carry karna mandatory hai. as per official guidelines.,hi-en,Neutral,curated_indic_augmented,test
+4b7e9c99,Simply fantastic! Delivery bohot fast thi aur packaging bhi ekdum secure aur solid hai. Highly recommended.,hi-en,Positive,curated_indic_augmented,test
+0602daec,റെയിൽവേ ട്രാക്കിലെ അറ്റകുറ്റപ്പണികൾ കാരണം ട്രെയിനുകൾ വൈകിയോടുന്നു.,ml,Neutral,curated_indic_benchmark,test
+624971de,"ਖਾਣਾ ਬਹੁਤ ਹੀ ਸਵਾਦਿਸ਼ਟ ਅਤੇ ਤਾਜ਼ਾ ਸੀ, ਸੇਵਾ ਵੀ ਬਹੁਤ ਵਧੀਆ ਰਹੀ!!",pa,Positive,curated_indic_augmented,test
+d898516b,"యాప్ ఎప్పటికప్పుడు ఆగిపోతోంది, చాలా అసౌకర్యంగా ఉంది।",te,Negative,curated_indic_augmented,test
+3f7394be,"দারুণ কোয়ালিটি এবং খুব দ্রুত ডেলিভারি পেয়েছি, আমি খুবই আনন্দিত 👍",bn,Positive,curated_indic_augmented,test
+d014fe03,"ଅତ୍ୟନ୍ତ ଖରାପ ଅନୁଭୂତି, ଟଙ୍କା ସମ୍ପୂର୍ଣ୍ଣ ବୃଥା ଗଲା ଏବଂ ସମୟ ନଷ୍ଟ ହେଲା 😠",or,Negative,curated_indic_augmented,test
+41e8adea,"As reported yesterday, New software update ka size around 500 MB hai aur WiFi pe download hoga. effective immediately.",hi-en,Neutral,curated_indic_augmented,test
+95db80b9,"हॉटेलातील जेवण अतिशय चवदार, गरमागरम आणि रुचकर होते!!",mr,Positive,curated_indic_augmented,test
+48466006,खोलीमध्ये अजिबात स्वच्छता नव्हती आणि डासांचा भयंकर त्रास होता.,mr,Negative,curated_indic_benchmark,test
+d49d5ed9,కస్టమర్ సపోర్ట్ చాలా త్వరగా స్పందించి నా సమస్యను పరిష్కరించింది।,te,Positive,curated_indic_augmented,test
+0dff63c6,ଭୁବନେଶ୍ୱରରେ ଆଜି ରାଜ୍ୟସ୍ତରୀୟ ବୈଠକ ଅନୁଷ୍ଠିତ ହେବାର କାର୍ଯ୍ୟକ୍ରମ ରହିଛି,or,Neutral,curated_indic_augmented,test
+1cbd1a0d,"മികച്ച നിലവാരമുള്ള ഉൽപ്പന്നം, കൃത്യസമയത്ത് എത്തിച്ചു തന്നു।",ml,Positive,curated_indic_augmented,test
+bce9cb37,ਤਸਵੀਰ ਵਿੱਚ ਦਿਖਾਈ ਚੀਜ਼ ਨਾਲੋਂ ਅਸਲ ਚੀਜ਼ ਬਹੁਤ ਹਲਕੀ ਕੁਆਲਿਟੀ ਦੀ ਹੈ 👎,pa,Negative,curated_indic_augmented,test
+ba27d30c,తాగునీటి పైప్‌లైన్ మరమ్మతుల కారణంగా రేపు నీటి సరఫరా నిలిపివేయబడుతుంది।,te,Neutral,curated_indic_augmented,test
+6c0bc2c4,होटल के कमरे बहुत साफ-सुथरे थे और कर्मचारियों का व्यवहार बहुत अच्छा था!!,hi,Positive,curated_indic_augmented,test
+f6315e1f,"Super happy with this: Teacher bohot achhe se explain karte hain, concepts easily samajh aa gaye. Kudos to the team.",hi-en,Positive,curated_indic_augmented,test
+b76f82bd,"ग्राहक सहायता बहुत खराब है, फोन करने पर कोई ठीक से जवाब नहीं देता।",hi,Negative,curated_indic_benchmark,test
+3e60f6f5,ઓછી કિંમતે આટલી શ્રેષ્ઠ ગુણવત્તા મળવી એ ખરેખર પ્રશંસનીય છે 👍,gu,Positive,curated_indic_augmented,test
+367c4dfe,কাস্টমার কেয়ার টিম খুব দ্রুত এবং আন্তরিকতার সাথে আমার সমস্যার সমাধান করেছে।,bn,Positive,curated_indic_benchmark,test
+818240d0,આ ઇલેક્ટ્રિક વાહનની બેટરી ફૂલ ચાર્જ થવામાં ચાર કલાકનો સમય લે છે।,gu,Neutral,curated_indic_augmented,test
+18f6ca78,ଆପ୍ ବ୍ୟବହାର କରିବା ଅତି ସହଜ ଏବଂ ଦ୍ରୁତ ଗତିରେ ଚାଲୁଛି!,or,Positive,curated_indic_augmented,test
+eee7df34,ਅੰਮ੍ਰਿਤਸਰ ਵਿੱਚ ਕੱਲ੍ਹ ਸਵੇਰੇ ਧੁੰਦ ਪੈਣ ਦੀ ਸੰਭਾਵਨਾ ਜਤਾਈ ਗਈ ਹੈ।,pa,Neutral,curated_indic_benchmark,test
+260a293f,"ગ્રાહક સેવા સાવ નકામી છે, વારંવાર ફરિયાદ કરવા છતાં કોઈ જવાબ નથી 👎",gu,Negative,curated_indic_augmented,test
+9ce701cc,પાણીની પાઇપલાઇન નાખવાના કામને કારણે અમુક રસ્તાઓ પર ટ્રાફિક ડાયવર્ઝન રહેશે।,gu,Neutral,curated_indic_augmented,test
+f85849fe,"రెండు రోజులకే పాడైపోయింది, రీప్లేస్మెంట్ ఇవ్వడం లేదు 😠",te,Negative,curated_indic_augmented,test
+7442c326,డెలివరీ చాలా ఆలస్యంగా జరిగింది మరియు ప్యాకేజింగ్ చిరిగిపోయింది.,te,Negative,curated_indic_benchmark,test
+4bbaca7e,"ਸਾਮਾਨ ਦੋ ਦਿਨਾਂ ਵਿੱਚ ਹੀ ਖਰਾਬ ਹੋ ਗਿਆ, ਪੈਸੇ ਪੂਰੀ ਤਰ੍ਹਾਂ ਬੇਕਾਰ ਗਏ 👎",pa,Negative,curated_indic_augmented,test
+749536fb,"ଏହି ଚଳଚ୍ଚିତ୍ରଟି ବହୁତ ସୁନ୍ଦର ଏବଂ ଶିକ୍ଷଣୀୟ, ସମସ୍ତେ ଦେଖିବା ଉଚିତ!!",or,Positive,curated_indic_augmented,test
+6babcfdf,"खाना बिल्कुल ठंडा और बासी था, स्वास्थ्य के लिए भी हानिकारक साबित हुआ ⚠️",hi,Negative,curated_indic_augmented,test
+fa9d4116,"Never buying this again. Quality bilkul third class hai, do din mein hi button toot gaya. Terrible disappointment.",hi-en,Negative,curated_indic_augmented,test
+c8079678,"રિફંડ આપવામાં કંપની હેરાન કરી રહી છે, આ એક પ્રકારની છેતરપિંડી છે 😠",gu,Negative,curated_indic_augmented,test
+c4ef4800,"ॲप सारखे बंद पडत आहे, काहीही काम नीट करता येत नाही ⚠️",mr,Negative,curated_indic_augmented,test
+9845f249,"Worst decision ever: Bakwaas food aur terrible service, bill itna zyada aur taste bilkul zero. Totally unacceptable.",hi-en,Negative,curated_indic_augmented,test
+fa6fb33a,"Worst decision ever: Warranty card hone ke baad bhi free repair deny kar diya, never buying again. Totally unacceptable.",hi-en,Negative,curated_indic_augmented,test
+65640d99,"ਖਾਣਾ ਬਿਲਕੁਲ ਠੰਢਾ ਅਤੇ ਬੇਸਵਾਦ ਸੀ, ਬਹੁਤ ਬੁਰਾ ਅਨੁਭਵ ਰਿਹਾ।",pa,Negative,curated_indic_benchmark,test
+e3a36f53,"ଦୁଇ ଦିନ ମଧ୍ୟରେ ସାମଗ୍ରୀ ଖରାପ ହୋଇଗଲା, ଗ୍ରାହକ ସେବା କୌଣସି ସାହାଯ୍ୟ କଲାନାହିଁ।",or,Negative,curated_indic_benchmark,test
+0d3e55b0,"Without a doubt, the customer service was remarkably helpful and resolved my issue in minutes.",en,Positive,curated_indic_augmented,test
+1068e18b,"हॉटेलातील जेवण अतिशय चवदार, गरमागरम आणि रुचकर होते ⭐⭐⭐⭐⭐",mr,Positive,curated_indic_augmented,test
+56d5b49b,"Super happy with this: One of the best investments I have made this year, worth every single penny. Kudos to the team.",en,Positive,curated_indic_augmented,test
+59dc4f9a,It was officially stated that the device measures fifteen centimeters in length and weighs two hundred grams. during regular business hours.,en,Neutral,curated_indic_augmented,test
+fca85e09,ಪುಸ್ತಕವು ಪ್ರತಿಯೊಬ್ಬರಿಗೂ ಸ್ಫೂರ್ತಿ ನೀಡುವ ವಿಚಾರಗಳನ್ನು ಒಳಗೊಂಡಿದೆ ⭐⭐⭐⭐⭐,kn,Positive,curated_indic_augmented,test
+bbd9b85c,"वॉरंटी कार्ड असूनही मोफत दुरुस्ती करण्यास नकार दिला, फसवणूक आहे।",mr,Negative,curated_indic_augmented,test
+3e2ac319,খাবারটি অসাধারণ সুস্বাদু ছিল এবং পরিবেশটাও খুব মনোরম!,bn,Positive,curated_indic_augmented,test
+fdd05474,"ग्राहक सहायता बहुत खराब है, फोन करने पर कोई ठीक से जवाब नहीं देता 😠",hi,Negative,curated_indic_augmented,test
+d2c03aa5,"অ্যাপটি বারবার ক্র্যাশ করে, কোনো কাজই ঠিকমতো করা যাচ্ছে না!!",bn,Negative,curated_indic_augmented,test
+47425434,"ରିଫଣ୍ଡ ପାଇଁ ମାସ ମାସ ଧରି ଦୌଡ଼ିବାକୁ ପଡ଼ୁଛି, ସମ୍ପୂର୍ଣ୍ଣ ପ୍ରତାରଣା 😠",or,Negative,curated_indic_augmented,test
+9eaec6e1,రాష్ట్ర ప్రభుత్వం కొత్త విద్యా విధానంపై సమావేశం నిర్వహించింది,te,Neutral,curated_indic_augmented,test
+46855f76,জনতা ভৱনত আজি বিয়লি কেবিনেট বৈঠক অনুষ্ঠিত হ'ব,as,Neutral,curated_indic_augmented,test
+1c5161f3,ग्राहक सेवा प्रतिनिधींनी माझी अडचण अगदी नम्रपणे आणि लगेच सोडवली 👍,mr,Positive,curated_indic_augmented,test
+877eb0f7,"மிகவும் குறைவான விலையில் அதிக தரம், நிச்சயம் மீண்டும் வாங்குவேன் 👍",ta,Positive,curated_indic_augmented,test
+28728481,"ਫਿਲਮ ਦੀ ਕਹਾਣੀ ਬਹੁਤ ਵਧੀਆ ਅਤੇ ਪ੍ਰੇਰਨਾਦਾਇਕ ਹੈ, ਸਭ ਨੂੰ ਦੇਖਣੀ ਚਾਹੀਦੀ ਹੈ 👍",pa,Positive,curated_indic_augmented,test
+7804cc52,"டெலிவரி மிகவும் தாமதமானது, பொருள் உடைந்த நிலையில் வந்தது 😠",ta,Negative,curated_indic_augmented,test
+b0e6dfb7,"My honest review is that this product exceeded all my expectations, absolutely wonderful quality! Truly remarkable!",en,Positive,curated_indic_augmented,test
+282fb5ef,"પેકેજિંગ ખૂબ જ મજબૂત હતું, સામાન સુરક્ષિત પહોંચ્યો 👍",gu,Positive,curated_indic_augmented,test
+367c4fae,"ಗ್ರಾಹಕ ಸೇವೆಗೆ ಕರೆ ಮಾಡಿದರೆ ಸರಿಯಾದ ಉತ್ತರವಿಲ್ಲ, ನಿರ್ಲಕ್ಷ್ಯ ತೋರುತ್ತಾರೆ.",kn,Negative,curated_indic_benchmark,test
+48f8e25d,ಕಡಿಮೆ ಬೆಲೆಗೆ ಇಂತಹ ಅದ್ಭುತ ಲ್ಯಾಪ್ಟಾಪ್ ಸಿಕ್ಕಿರುವುದು ನನಗೆ ತುಂಬಾ ಇಷ್ಟವಾಯಿತು!!,kn,Positive,curated_indic_augmented,test
+87be3112,हवामान विभागाच्या अंदाजानुसार उद्या मध्य महाराष्ट्रात हवामान कोरडे राहील,mr,Neutral,curated_indic_augmented,test
+333be679,"খাদ্য একেবাৰে চেঁচা আৰু গোন্ধোৱা আছিল, পেট বেয়া হ'ল 😠",as,Negative,curated_indic_augmented,test
+3f1c9376,फिल्म की कहानी और अभिनेताओं का अभिनय दिल को छू लेने वाला और प्रेरणादायक है!,hi,Positive,curated_indic_augmented,test
+08513edf,मुंबई-पुणे एक्सप्रेसवेवर वाहतूक सुरळीत सुरू असल्याची माहिती मिळाली.,mr,Neutral,curated_indic_benchmark,test
+17089b54,"মুভিটি চরম বিরক্তিকর ও অযৌক্তিক, একদম সময় নষ্ট হলো 😠",bn,Negative,curated_indic_augmented,test
+15a2da6f,"చాలా చెత్త సేవ, అసలు నా సమస్యను ఎవరూ పరిష్కరించలేదు 😠",te,Negative,curated_indic_augmented,test
+a1b30c54,বিশ্ববিদ্যালয়ৰ পৰীক্ষাৰ সময়সূচী আনুষ্ঠানিক ৱেবছাইটত প্ৰকাশ পাইছে.,as,Neutral,curated_indic_augmented,test
+0e7e5281,It was officially stated that the system settings can be configured through the primary control panel. during regular business hours.,en,Neutral,curated_indic_augmented,test
+57f9d5ff,"ଖାଦ୍ୟ ବହୁତ ସ୍ୱାଦିଷ୍ଟ ଏବଂ ତାଜା ଥିଲା, ହୋଟେଲ ପରିବେଶ ମଧ୍ୟ ଚମତ୍କାର!",or,Positive,curated_indic_augmented,test
+b25019ed,പുതിയ വോട്ടർ പട്ടിക അടുത്ത ആഴ്ച പ്രസിദ്ധീകരിക്കും.,ml,Neutral,curated_indic_benchmark,test
+dc1c24ae,ଆପ୍ ବ୍ୟବହାର କରିବା ଅତି ସହଜ ଏବଂ ଦ୍ରୁତ ଗତିରେ ଚାଲୁଛି।,or,Positive,curated_indic_benchmark,test
+c058fe09,ਬੋਰਡ ਪ੍ਰੀਖਿਆਵਾਂ ਦੀ ਡੇਟਸ਼ੀਟ ਅਗਲੇ ਹਫ਼ਤੇ ਜਾਰੀ ਕੀਤੀ ਜਾਵੇਗੀ.,pa,Neutral,curated_indic_augmented,test
+17dbe028,ડિલિવરી ખૂબ મોડી થઈ અને અંદરથી સામાન તૂટેલો નીકળ્યો 👎,gu,Negative,curated_indic_augmented,test
+efd51527,"Unfortunately, App baar baar crash ho raha hai update ke baad, worst experience ever. Did not expect such poor standards.",hi-en,Negative,curated_indic_augmented,test
+50ed37b3,ৰাষ্ট্ৰীয় ঘাইপথ সম্প্ৰসাৰণৰ কাম দ্ৰুতগতিত চলি আছে।,as,Neutral,curated_indic_benchmark,test
+ec5205b9,उत्कृष्ट दर्जा आणि वेळेवर डिलिव्हरी मिळाल्यामुळे मी अत्यंत समाधानी आहे.,mr,Positive,curated_indic_benchmark,test
+679897fc,"Very bad experience: the software crashed five times in one hour, completely unusable. Avoid at all costs.",en,Negative,curated_indic_augmented,test
+7de7f148,"ଅତ୍ୟନ୍ତ ଖରାପ ଅନୁଭୂତି, ଟଙ୍କା ସମ୍ପୂର୍ଣ୍ଣ ବୃଥା ଗଲା ଏବଂ ସମୟ ନଷ୍ଟ ହେଲା।",or,Negative,curated_indic_benchmark,test
+fb606291,"ബാറ്ററി ചാർജ്ജ് രണ്ടു ദിവസം വരെ നിൽക്കുന്നു, വളരെ തൃപ്തികരമാണ് ⭐⭐⭐⭐⭐",ml,Positive,curated_indic_augmented,test
+20904c01,આ એપ્લિકેશન વાપરવામાં ખૂબ સરળ છે અને ખૂબ ઝડપથી કામ કરે છે।,gu,Positive,curated_indic_augmented,test
+7103514e,"ਫ਼ੋਨ ਦੀ ਬੈਟਰੀ ਲਾਈਫ ਅਤੇ ਕੈਮਰਾ ਦੋਵੇਂ ਸ਼ਾਨਦਾਰ ਹਨ, ਪੈਸਾ ਵਸੂਲ ਚੀਜ਼ ਹੈ!!",pa,Positive,curated_indic_augmented,test
+9eb5e1be,ਬੈਂਕ ਵਿੱਚ ਲੈਣ-ਦੇਣ ਦਾ ਸਮਾਂ ਸਵੇਰੇ ਦਸ ਵਜੇ ਤੋਂ ਸ਼ੁਰੂ ਹੁੰਦਾ ਹੈ.,pa,Neutral,curated_indic_augmented,test
+4aaaa122,ಡೆಲಿವರಿ ತುಂಬಾ ತಡವಾಯಿತು ಮತ್ತು ಪ್ಯಾಕೇಜ್ ಹಾಳಾಗಿತ್ತು।,kn,Negative,curated_indic_augmented,test
+6b7d31ef,কাস্টমার সার্ভিসের ব্যবহার অত্যন্ত অভদ্র ও দায়িত্বজ্ঞানহীন ⚠️,bn,Negative,curated_indic_augmented,test
+31927b9f,"পণ্যটি হাতে পাওয়ার পর দেখি ভাঙা, টাকাটা একেবারে জলে গেল!!",bn,Negative,curated_indic_augmented,test
+9f5e3936,ఈ ఫోన్ బరువు సుమారు 170 గ్రాములు మరియు ఇది అల్యూమినియం బాడీ,te,Neutral,curated_indic_augmented,test
+075772e2,"ತೀರಾ ಕಳಪೆ ಗುಣಮಟ್ಟದ ವಸ್ತು, ಗ್ರಾಹಕ ಬೆಂಬಲ ಸಂಪೂರ್ಣ ನಿಷ್ಪ್ರಯೋಜಕ ⚠️",kn,Negative,curated_indic_augmented,test
+63acdec0,"సినిమా కథ చాలా నిరాశపరిచింది, సమయం వృధా ⚠️",te,Negative,curated_indic_augmented,test
+1a47ecda,"மிகவும் குறைவான விலையில் அதிக தரம், நிச்சயம் மீண்டும் வாங்குவேன் ⭐⭐⭐⭐⭐",ta,Positive,curated_indic_augmented,test
+0b48cf43,उत्पादनाची गुणवत्ता अपेक्षेपेक्षा कितीतरी पटीने जास्त चांगली निघाली 👍,mr,Positive,curated_indic_augmented,test
+63b34534,മുറികൾ വൃത്തിയുള്ളതും കാഴ്ചകൾ മനോഹരവുമായിരുന്നു।,ml,Positive,curated_indic_augmented,test
+0263c600,ट्रेन नई दिल्ली स्टेशन से सुबह आठ बजे निर्धारित समय पर रवाना हुई।,hi,Neutral,curated_indic_benchmark,test
+7a3d28b7,"ആപ്പ് ഇടയ്ക്കിടെ നിലയ്ക്കുന്നു, തീരെ പ്രവർത്തിക്കുന്നില്ല।",ml,Negative,curated_indic_augmented,test
+1d18b2f0,"കസ്റ്റമർ സപ്പോർട്ടിൽ വിളിച്ചിട്ട് ആരും എടുക്കുന്നില്ല, വഞ്ചനയാണ്।",ml,Negative,curated_indic_augmented,test
+025567b7,ಕೊಠಡಿಗಳು ಬಹಳ ಸ್ವಚ್ಛವಾಗಿದ್ದು ಸೇವೆ ಅತ್ಯುನ್ನತ ಮಟ್ಟದಲ್ಲಿತ್ತು!,kn,Positive,curated_indic_augmented,test
+e8d7ced7,తక్కువ ధరలో ఇంత మంచి వస్తువు రావడం చాలా గొప్ప విషయం.,te,Positive,curated_indic_benchmark,test
+1b9f3aaf,"I must honestly say that Phone ka camera aur performance dono top class hain, best value for money.",hi-en,Positive,curated_indic_augmented,test
+a723f828,संसद का नया सत्र अगले सप्ताह सोमवार से शुरू होने की संभावना है।,hi,Neutral,curated_indic_benchmark,test
+04c28ea9,ગુજરાત યુનિવર્સિટી દ્વારા પરીક્ષાનું પરિણામ વેબસાઇટ પર મૂકવામાં આવ્યું છે.,gu,Neutral,curated_indic_benchmark,test
+bd0cea71,या चित्रपटातील गाणी आणि सर्वच कलाकारांचा अभिनय अप्रतिम आहे!,mr,Positive,curated_indic_augmented,test
+137b5506,വാറന്റി ഉണ്ടായിട്ടും സർവീസ് ചെയ്യാൻ അധിക പണം ആവശ്യപ്പെട്ടു 😠,ml,Negative,curated_indic_augmented,test
+1e7439be,Simply fantastic! I am genuinely impressed by the build quality and attention to detail. Highly recommended.,en,Positive,curated_indic_augmented,test
+bfd9a266,"ആപ്ലിക്കേഷൻ ഉപയോഗിക്കാൻ വളരെ എളുപ്പമാണ്, മികച്ച സവിശേഷതകൾ 👍",ml,Positive,curated_indic_augmented,test
+b78d7781,"ಉತ್ತಮ ಗುಣಮಟ್ಟದ ವಸ್ತು ಮತ್ತು ವೇಗದ ವಿತರಣೆ, ತುಂಬಾ ಸಂತೋಷವಾಯಿತು ⭐⭐⭐⭐⭐",kn,Positive,curated_indic_augmented,test
+a3b1b7d6,ਐਪ ਵਰਤਣ ਵਿੱਚ ਬਹੁਤ ਆਸਾਨ ਹੈ ਅਤੇ ਬਿਨਾਂ ਰੁਕੇ ਤੇਜ਼ ਚੱਲਦੀ ਹੈ।,pa,Positive,curated_indic_benchmark,test
+c72f58d7,"Zero stars if possible: the food was cold, tasteless, and arrived two hours late. So annoying!",en,Negative,curated_indic_augmented,test
+87d82ed7,"এই নাটকটি সত্যিই অসাধারণ এবং হৃদয়স্পর্শী হয়েছে, সবার অভিনয় চমৎকার!",bn,Positive,curated_indic_benchmark,test
+8b32e496,"रिफंड के नाम पर कंपनी सिर्फ टालमटोल कर रही है, ग्राहकों के साथ धोखा है 👎",hi,Negative,curated_indic_augmented,test
+b2b0da20,यह नया फोन बहुत ही तेज चलता है और कैमरा क्वालिटी वाकई बेमिसाल है!!,hi,Positive,curated_indic_augmented,test
+bd18e3ee,"In standard conditions, the meeting has been rescheduled for thursday afternoon in conference room b. without further modifications.",en,Neutral,curated_indic_augmented,test
+621c1eba,ಸರ್ಕಾರಿ ಆಸ್ಪತ್ರೆಗಳಲ್ಲಿ ಉಚಿತ ಆರೋಗ್ಯ ತಪಾಸಣಾ ಶಿಬಿರ ಏರ್ಪಡಿಸಲಾಗಿದೆ।,kn,Neutral,curated_indic_augmented,test
+8b893124,"ఈ పుస్తకం చాలా అద్భుతంగా ఉంది, ప్రతి ఒక్కరూ తప్పక చదవాలి!!",te,Positive,curated_indic_augmented,test
+a34e1556,"പണം പാഴായിപ്പോയി, ഒട്ടും നിലവാരമില്ലാത്ത വസ്തു!!",ml,Negative,curated_indic_augmented,test
+2d9490d1,Super happy with this: the customer service was remarkably helpful and resolved my issue in minutes. Kudos to the team.,en,Positive,curated_indic_augmented,test
+c2e897ef,"ગ્રાહક સેવા સાવ નકામી છે, વારંવાર ફરિયાદ કરવા છતાં કોઈ જવાબ નથી 😠",gu,Negative,curated_indic_augmented,test
+aa90e92d,வங்கி வேலை நேரம் காலை பத்து மணி முதல் மாலை நான்கு மணி வரை இருக்கும்।,ta,Neutral,curated_indic_augmented,test
+20df2d65,"খাদ্য একেবাৰে চেঁচা আৰু গোন্ধোৱা আছিল, পেট বেয়া হ'ল।",as,Negative,curated_indic_benchmark,test
+f8b80764,"As reported yesterday, Device ka color matte black hai aur isme 128 GB internal storage hai. effective immediately.",hi-en,Neutral,curated_indic_augmented,test
+cbf18162,Super happy with this: the new update made the application ten times smoother and more enjoyable. Kudos to the team.,en,Positive,curated_indic_augmented,test
+5f7b840b,সাত দিন দেরিতে ডেলিভারি দিল এবং বাক্সে ভুল জিনিস পাঠানো হয়েছে ⚠️,bn,Negative,curated_indic_augmented,test
+97053867,"ಹೋಟೆಲ್ ನಲ್ಲಿ ಬಿಸಿ ನೀರಿನ ವ್ಯವಸ್ಥೆ ಇರಲಿಲ್ಲ, ತುಂಬಾ ಕೆಟ್ಟ ಅನುಭವ.",kn,Negative,curated_indic_benchmark,test
+92fe0953,খাবারটি অসাধারণ সুস্বাদু ছিল এবং পরিবেশটাও খুব মনোরম ⭐⭐⭐⭐⭐,bn,Positive,curated_indic_augmented,test
+b0015ae2,மெட்ரோ ரயில் சேவை வழக்கம்போல் தடையின்றி இயங்கி வருகிறது।,ta,Neutral,curated_indic_augmented,test
+d6a26528,"ଦୁଇ ଦିନ ମଧ୍ୟରେ ସାମଗ୍ରୀ ଖରାପ ହୋଇଗଲା, ଗ୍ରାହକ ସେବା କୌଣସି ସାହାଯ୍ୟ କଲାନାହିଁ 👎",or,Negative,curated_indic_augmented,test
+9ad480ee,"Simply fantastic! Delicious food, exquisite ambiance, and very courteous staff. Highly recommended.",en,Positive,curated_indic_augmented,test
+7ce6b0a6,Super happy with this: A beautifully crafted experience with seamless navigation and fast response times. Kudos to the team.,en,Positive,curated_indic_augmented,test
+b5fa5dfc,"திரைக்கதை மிகவும் சலிப்பைத் தருகிறது, நேரம் வீணானது ⚠️",ta,Negative,curated_indic_augmented,test
+fe05c5e8,"খাদ্য একেবাৰে চেঁচা আৰু গোন্ধোৱা আছিল, পেট বেয়া হ'ল ⚠️",as,Negative,curated_indic_augmented,test
+babc90b8,"Extremely frustrated! Refund ke liye roz mail karo par koi reply nahi deta, disgusting policy. Total regret.",hi-en,Negative,curated_indic_augmented,test
+0a8f5a40,"പണം പാഴായിപ്പോയി, ഒട്ടും നിലവാരമില്ലാത്ത വസ്തു।",ml,Negative,curated_indic_augmented,test
+0ef545ae,"Unfortunately, Terrible customer service and broken item upon arrival, deeply disappointed. Did not expect such poor standards.",en,Negative,curated_indic_augmented,test
+ea199fc1,અમદાવાદમાં આગામી સપ્તાહે વેપાર મેળો યોજાશે તેવી સત્તાવાર જાહેરાત થઈ છે,gu,Neutral,curated_indic_augmented,test
+f72e1775,"உணவு கெட்டுப்போய் இருந்தது, சுகாதாரமற்ற சூழ்நிலை.",ta,Negative,curated_indic_benchmark,test
+85c8f4e8,"പണം പാഴായിപ്പോയി, ഒട്ടും നിലവാരമില്ലാത്ത വസ്തു 😠",ml,Negative,curated_indic_augmented,test
+3ea92db1,తక్కువ ధరలో ఇంత మంచి వస్తువు రావడం చాలా గొప్ప విషయం।,te,Positive,curated_indic_augmented,test
+72427c90,डिलिव्हरीला दहा दिवस उशीर झाला आणि पार्सलही तुटलेले होते।,mr,Negative,curated_indic_augmented,test
+0bea6888,"புத்தகத்தின் உள்ளடக்கம் மிகவும் பயனுள்ளது, அனைவரும் படிக்க வேண்டும்.",ta,Positive,curated_indic_benchmark,test
+d36a75f9,"चित्रपटाची कथा अत्यंत कंटाळवाणी होती, डोकेदुखी झाली।",mr,Negative,curated_indic_augmented,test
+3bc9247f,"ਕਸਟਮਰ ਸਪੋਰਟ ਬਿਲਕੁਲ ਬੇਕਾਰ ਹੈ, ਫ਼ੋਨ ਕਰਨ 'ਤੇ ਕੋਈ ਸੁਣਵਾਈ ਨਹੀਂ ਹੁੰਦੀ 👎",pa,Negative,curated_indic_augmented,test
+335f6642,"ಚಿತ್ರಕಥೆ ತೀರಾ ಕಳಪೆಯಾಗಿತ್ತು, ಚಿತ್ರಮಂದಿರಕ್ಕೆ ಹೋಗಿದ್ದು ಸಮಯ ವ್ಯರ್ಥ।",kn,Negative,curated_indic_augmented,test
+89e21f6a,ਤਸਵੀਰ ਵਿੱਚ ਦਿਖਾਈ ਚੀਜ਼ ਨਾਲੋਂ ਅਸਲ ਚੀਜ਼ ਬਹੁਤ ਹਲਕੀ ਕੁਆਲਿਟੀ ਦੀ ਹੈ ⚠️,pa,Negative,curated_indic_augmented,test
+92149f8f,"Without a doubt, Delicious food, exquisite ambiance, and very courteous staff.",en,Positive,curated_indic_augmented,test
+54229b40,"खाना बहुत ही स्वादिष्ट और ताज़ा था, यहाँ का माहौल भी बहुत सुकून देने वाला है।",hi,Positive,curated_indic_benchmark,test
+cb3b3827,"After two weeks of usage, Delicious food, exquisite ambiance, and very courteous staff. Very satisfied.",en,Positive,curated_indic_augmented,test
+97216ea1,"हॉटेलातील जेवण अतिशय चवदार, गरमागरम आणि रुचकर होते 👍",mr,Positive,curated_indic_augmented,test
+35942799,গ্ৰাহক সেৱা প্ৰতিনিধিয়ে অতি নম্ৰতাৰে মোৰ সমস্যাটো লগে লগে সমাধান কৰিলে!,as,Positive,curated_indic_augmented,test
+c9214e5c,"ಹೋಟೆಲ್ ನಲ್ಲಿ ಬಿಸಿ ನೀರಿನ ವ್ಯವಸ್ಥೆ ಇರಲಿಲ್ಲ, ತುಂಬಾ ಕೆಟ್ಟ ಅನುಭವ।",kn,Negative,curated_indic_augmented,test
+6ea7c110,শহরের মেট্রো পরিষেবা স্বাভাবিকভাবে চলছে বলে জানানো হয়েছে,bn,Neutral,curated_indic_augmented,test
+27f904ba,"Honest feedback: Terrible customer service and broken item upon arrival, deeply disappointed. Really pathetic quality.",en,Negative,curated_indic_augmented,test
+8f48a9ab,"रिफंड के नाम पर कंपनी सिर्फ टालमटोल कर रही है, ग्राहकों के साथ धोखा है!!",hi,Negative,curated_indic_augmented,test
+d4e56cf0,"જમવાનું ખૂબ જ સ્વાદિષ્ટ અને શુદ્ધ હતું, હોટલનું વાતાવરણ પણ શાંત હતું!",gu,Positive,curated_indic_augmented,test
+008d869b,কম খৰচতে এনেকুৱা উন্নত সুবিধা পোৱাটো আনন্দৰ বিষয়!,as,Positive,curated_indic_augmented,test
+b286ffea,"ॲप सारखे बंद पडत आहे, काहीही काम नीट करता येत नाही!!",mr,Negative,curated_indic_augmented,test
+da456ad0,"Worst decision ever: Terrible customer service and broken item upon arrival, deeply disappointed. Totally unacceptable.",en,Negative,curated_indic_augmented,test
+4def679b,"हा उपक्रम अतिशय सुंदर आणि कौतुकास्पद आहे, सर्वांना खूप खूप शुभेच्छा ⭐⭐⭐⭐⭐",mr,Positive,curated_indic_augmented,test
+68fa4864,"ਕਸਟਮਰ ਸਪੋਰਟ ਬਿਲਕੁਲ ਬੇਕਾਰ ਹੈ, ਫ਼ੋਨ ਕਰਨ 'ਤੇ ਕੋਈ ਸੁਣਵਾਈ ਨਹੀਂ ਹੁੰਦੀ!!",pa,Negative,curated_indic_augmented,test
+8818e121,My honest review is that Delivery bohot fast thi aur packaging bhi ekdum secure aur solid hai. Truly remarkable!,hi-en,Positive,curated_indic_augmented,test
+2386d37d,"अत्यंत निराशाजनक कारभार आणि निकृष्ट दर्जा, कोणतीही मदत मिळाली नाही.",mr,Negative,curated_indic_benchmark,test
+88f93f21,"এই প্রদর্শনীখন অতি মনোৰম আৰু সুন্দৰ আছিল, বহুত ভাল লাগিল!",as,Positive,curated_indic_benchmark,test
+cba9e9d5,ରୁମ୍ ଗୁଡ଼ିକ ଅତ୍ୟନ୍ତ ପରିଷ୍କାର ଥିଲା ଏବଂ କର୍ମଚାରୀଙ୍କ ବ୍ୟବହାର ଭଦ୍ର ଥିଲା!!,or,Positive,curated_indic_augmented,test
+d362f418,"Never buying this again. the software crashed five times in one hour, completely unusable. Terrible disappointment.",en,Negative,curated_indic_augmented,test
+251e1cd8,কাস্টমার সার্ভিসের ব্যবহার অত্যন্ত অভদ্র ও দায়িত্বজ্ঞানহীন।,bn,Negative,curated_indic_benchmark,test
+13ba4135,"பணம் வீணானது, தரம் சற்றும் திருப்திகரமாக இல்லை!!",ta,Negative,curated_indic_augmented,test
+fc32a2a6,హోటల్ గదులు చాలా శుభ్రంగా మరియు సౌకర్యవంతంగా ఉన్నాయి ⭐⭐⭐⭐⭐,te,Positive,curated_indic_augmented,test
+f6aa6ef4,"ఈ యాప్ ఉపయోగించడం చాలా సులభం, పని వేగంగా పూర్తవుతుంది।",te,Positive,curated_indic_augmented,test
+d3b22d5d,"সামগ্ৰীটো দুদিনতে বেয়া হৈ গ'ল, গ্ৰাহক সেৱাই একো উত্তৰ নিদিলে ⚠️",as,Negative,curated_indic_augmented,test
+9435c15b,টকা ঘূৰাই দিয়াৰ নামত কেৱল ভুৱা প্ৰতিশ্ৰুতি দি আছে 😠,as,Negative,curated_indic_augmented,test
+72299f87,Super happy with this: Delivery bohot fast thi aur packaging bhi ekdum secure aur solid hai. Kudos to the team.,hi-en,Positive,curated_indic_augmented,test
+3fd7affb,"பயன்படுத்த மிகவும் எளிதாக உள்ளது, மிகச் சிறந்த மென்பொருள் 👍",ta,Positive,curated_indic_augmented,test
+04d2991e,"जेवण अतिशय शिळे आणि थंड होते, आरोग्य बिघडले.",mr,Negative,curated_indic_benchmark,test
+e00d250b,ਇਸ ਮੋਬਾਈਲ ਦਾ ਭਾਰ ਲਗਭਗ 180 ਗ੍ਰਾਮ ਹੈ ਅਤੇ ਇਸ ਵਿੱਚ ਦੋ ਸਿਮ ਲੱਗਦੇ ਹਨ,pa,Neutral,curated_indic_augmented,test
+52b1fe62,ಬಸ್ ನಿಲ್ದಾಣದಲ್ಲಿ ಪ್ರಯಾಣಿಕರ ಸೌಲಭ್ಯಕ್ಕಾಗಿ ಹೊಸ ಮಾಹಿತಿ ಫಲಕಗಳನ್ನು ಅಳವಡಿಸಲಾಗಿದೆ।,kn,Neutral,curated_indic_augmented,test
+8f35846f,Electricity bill payment ki last date 25th of this month mention ki gayi hai.,hi-en,Neutral,curated_indic_benchmark,test
+bbd1ad3b,"डिलीवरी में दस दिन की देरी हुई और सामान भी टूटा हुआ निकला, बहुत दुखद ⚠️",hi,Negative,curated_indic_augmented,test
+72970767,ସଚିବାଳୟରେ ମୁଖ୍ୟ ଶାସନ ସଚିବଙ୍କ ଅଧ୍ୟକ୍ଷତାରେ ସମୀକ୍ଷା ବୈଠକ ସରିଛି।,or,Neutral,curated_indic_benchmark,test
+3145723d,விற்பனையாளரின் அணுகுமுறை மிகவும் கண்ணியமாக இருந்தது!,ta,Positive,curated_indic_augmented,test
+19e5b846,ପାଣିପାଗ ବିଭାଗ ସୂଚନା ଅନୁଯାୟୀ ଉପକୂଳ ଜିଲ୍ଲାରେ ପାଗ ଶୁଖିଲା ରହିବ।,or,Neutral,curated_indic_benchmark,test
+28239c29,নবান্নে রাজ্য মন্ত্রিসভার গুরুত্বপূর্ণ বৈঠক শুরু হয়েছে।,bn,Neutral,curated_indic_benchmark,test
+086723af,"இந்த மொபைல் கேமரா மிகவும் துல்லியமாக படங்களை எடுக்கிறது, சூப்பர் 👍",ta,Positive,curated_indic_augmented,test
+32ee2a1f,গ্ৰাহক সেৱা প্ৰতিনিধিয়ে অতি নম্ৰতাৰে মোৰ সমস্যাটো লগে লগে সমাধান কৰিলে 👍,as,Positive,curated_indic_augmented,test
+198f288f,சென்னையில் இன்று காலை மிதமான மழை பெய்யக்கூடும் என்று வானிலை மையம் தெரிவித்துள்ளது।,ta,Neutral,curated_indic_augmented,test
+984d1fa8,"மிகவும் மோசமான தரம், வாங்கியதற்கு மிகுந்த வருத்தம் ஏற்படுகிறது 👎",ta,Negative,curated_indic_augmented,test
+053a6b35,"ग्राहक सहायता बहुत खराब है, फोन करने पर कोई ठीक से जवाब नहीं देता!!",hi,Negative,curated_indic_augmented,test
+5cf352e4,மின்சார கட்டணம் செலுத்தும் இணையதளம் பராமரிப்பு பணியில் உள்ளது,ta,Neutral,curated_indic_augmented,test
+04d18e0e,"ଫିଲ୍ମଟି ଅତ୍ୟନ୍ତ ବିରକ୍ତିକର ଥିଲା, କାହାଣୀରେ କୌଣସି ଦମ ନଥିଲା 😠",or,Negative,curated_indic_augmented,test
+e1a879fa,"ആപ്ലിക്കേഷൻ ഉപയോഗിക്കാൻ വളരെ എളുപ്പമാണ്, മികച്ച സവിശേഷതകൾ।",ml,Positive,curated_indic_augmented,test
+5ccb8db3,Worst decision ever: Movie itni boring thi ki interval mein hi hall se bahar aa gaye. Totally unacceptable.,hi-en,Negative,curated_indic_augmented,test
+8fce1e4a,"According to the records, Meeting kal subah 10 baje scheduled hai office conference room mein. currently under observation.",hi-en,Neutral,curated_indic_augmented,test
+e4f0cd71,కస్టమర్ సపోర్ట్ చాలా త్వరగా స్పందించి నా సమస్యను పరిష్కరించింది 👍,te,Positive,curated_indic_augmented,test
+74ff49b5,"சிறந்த தரம் மற்றும் விரைவான டெலிவரி, மிகவும் மகிழ்ச்சியாக உள்ளது ⭐⭐⭐⭐⭐",ta,Positive,curated_indic_augmented,test
+90a5c427,"Honest feedback: the battery drains within two hours of light usage, do not buy this. Really pathetic quality.",en,Negative,curated_indic_augmented,test
+824fe2eb,கூட்டம் தலைமைச் செயலகத்தில் இன்று மாலை மூன்று மணிக்கு நடைபெறுகிறது.,ta,Neutral,curated_indic_benchmark,test
+a93992ad,રાજ્યની સરકારી હોસ્પિટલોમાં નવી સુવિધાઓ ઉમેરવામાં આવી છે.,gu,Neutral,curated_indic_benchmark,test
+2f9532da,"రెండు రోజులకే పాడైపోయింది, రీప్లేస్మెంట్ ఇవ్వడం లేదు!!",te,Negative,curated_indic_augmented,test
+8b5828e8,"According to the records, the latest quarterly financial report will be published on the official portal. currently under observation.",en,Neutral,curated_indic_augmented,test
+cd619193,"Without a doubt, I am genuinely impressed by the build quality and attention to detail.",en,Positive,curated_indic_augmented,test
+5186d2b7,"Regarding the inquiry, Device ka color matte black hai aur isme 128 GB internal storage hai. as confirmed by authorities.",hi-en,Neutral,curated_indic_augmented,test
+0b92eda9,"Delivery 10 din late aayi aur item bhi completely broken nikla, totally disappointed.",hi-en,Negative,curated_indic_benchmark,test
+73110845,The documented parameters show that the user manual contains detailed installation guidelines in chapter four. based on current metrics.,en,Neutral,curated_indic_augmented,test
+ed4c853a,"ਇਹ ਗੀਤ ਸੁਣ ਕੇ ਮਨ ਖੁਸ਼ ਹੋ ਗਿਆ, ਬਹੁਤ ਹੀ ਖੂਬਸੂਰਤ ਪੇਸ਼ਕਾਰੀ 👍",pa,Positive,curated_indic_augmented,test
+0d47437e,ଏହି ଡିଭାଇସର ଓଜନ ପ୍ରାୟ ୧୬୦ ଗ୍ରାମ ଏବଂ ଏହା ନୀଳ ରଙ୍ଗରେ ଉପଲବ୍ଧ।,or,Neutral,curated_indic_benchmark,test
+b95a45a9,Five stars for this! Hotel rooms were very clean and staff behavior was extremely polite and helpful. Will definitely use again.,hi-en,Positive,curated_indic_augmented,test
+42375b85,The train departed from the central station at nine in the morning.,en,Neutral,curated_indic_benchmark,test
+a56e1b08,తక్కువ ధరలో ఇంత మంచి వస్తువు రావడం చాలా గొప్ప విషయం 👍,te,Positive,curated_indic_augmented,test
+af6477e8,নতুন জল সরবরাহ প্রকল্পের কাজ আগামী মাসে শেষ হবে।,bn,Neutral,curated_indic_benchmark,test
+97bcc289,એપ્લિકેશન વારંવાર ક્રેશ થાય છે અને ફોન પણ હેંગ થઈ જાય છે।,gu,Negative,curated_indic_augmented,test
+b813c604,ଆପ୍ ବ୍ୟବହାର କରିବା ଅତି ସହଜ ଏବଂ ଦ୍ରୁତ ଗତିରେ ଚାଲୁଛି!!,or,Positive,curated_indic_augmented,test
+bfaf3dc8,"રિફંડ આપવામાં કંપની હેરાન કરી રહી છે, આ એક પ્રકારની છેતરપિંડી છે।",gu,Negative,curated_indic_augmented,test
+99849e8d,অ্যাপ্লিকেশনটি ব্যবহার করা খুবই সহজ এবং ইন্টারফেস বেশ আধুনিক 👍,bn,Positive,curated_indic_augmented,test
+6775f31a,"The battery drains within two hours of light usage, do not buy this.",en,Negative,curated_indic_benchmark,test
+05bc0347,মোবাইলটোৰ কেমেৰা আৰু বেটাৰী লাইফ সঁচাকৈয়ে প্ৰশংসনীয়!!,as,Positive,curated_indic_augmented,test
+bfaf4fb3,ਇਸ ਮੋਬਾਈਲ ਦਾ ਭਾਰ ਲਗਭਗ 180 ਗ੍ਰਾਮ ਹੈ ਅਤੇ ਇਸ ਵਿੱਚ ਦੋ ਸਿਮ ਲੱਗਦੇ ਹਨ.,pa,Neutral,curated_indic_augmented,test
+ae76522e,ट्रेन नई दिल्ली स्टेशन से सुबह आठ बजे निर्धारित समय पर रवाना हुई,hi,Neutral,curated_indic_augmented,test
+bc21a97a,"সামগ্ৰীটো দুদিনতে বেয়া হৈ গ'ল, গ্ৰাহক সেৱাই একো উত্তৰ নিদিলে।",as,Negative,curated_indic_benchmark,test
+a98d9976,কাস্টমার সার্ভিসের ব্যবহার অত্যন্ত অভদ্র ও দায়িত্বজ্ঞানহীন 👎,bn,Negative,curated_indic_augmented,test
+dac2567f,"ഹോട്ടൽ മുറിയിൽ എസി പ്രവർത്തിക്കുന്നില്ലായിരുന്നു, അസഹനീയം.",ml,Negative,curated_indic_benchmark,test
+bb70153d,"મોબાઇલનો કેમેરો અને બેટરી બંને ખૂબ જ સારા છે, પૈસા વસૂલ પ્રોડક્ટ!",gu,Positive,curated_indic_augmented,test
+30825a47,"এপটো বাৰে বাৰে বন্ধ হৈ যায়, কোনো কাম কৰিব পৰা নাই 👎",as,Negative,curated_indic_augmented,test
+ea9571b7,The documented parameters show that the package arrived on wednesday following standard delivery timelines. based on current metrics.,en,Neutral,curated_indic_augmented,test
+74abaf5c,"Five stars for this! Teacher bohot achhe se explain karte hain, concepts easily samajh aa gaye. Will definitely use again.",hi-en,Positive,curated_indic_augmented,test
+ef9e95ff,"Five stars for this! One of the best investments I have made this year, worth every single penny. Will definitely use again.",en,Positive,curated_indic_augmented,test
+6d8713ce,ಗ್ರಾಹಕ ಸೇವಾ ಪ್ರತಿನಿಧಿಗಳು ನನ್ನ ಸಮಸ್ಯೆಯನ್ನು ತಕ್ಷಣ ಬಗೆಹರಿಸಿದರು।,kn,Positive,curated_indic_augmented,test
+25bf19fe,"Honest feedback: Delivery 10 din late aayi aur item bhi completely broken nikla, totally disappointed. Really pathetic quality.",hi-en,Negative,curated_indic_augmented,test
+4d60a10c,ಸರ್ಕಾರಿ ಆಸ್ಪತ್ರೆಗಳಲ್ಲಿ ಉಚಿತ ಆರೋಗ್ಯ ತಪಾಸಣಾ ಶಿಬಿರ ಏರ್ಪಡಿಸಲಾಗಿದೆ.,kn,Neutral,curated_indic_benchmark,test
+5d4787cd,వార్షిక క్రీడా పోటీలు వచ్చే వారం ప్రారంభం కానున్నాయి.,te,Neutral,curated_indic_benchmark,test
+6e681178,महाराष्ट्र शासनाने नवीन शैक्षणिक धोरणाची अंमलबजावणी जाहीर केली आहे.,mr,Neutral,curated_indic_benchmark,test
+02df0423,"യാത്ര വളരെ സുഖകരവും സുരക്ഷിതവുമായിരുന്നു, നന്ദി 👍",ml,Positive,curated_indic_augmented,test
+2bbb9a81,ৰাষ্ট্ৰীয় ঘাইপথ সম্প্ৰসাৰণৰ কাম দ্ৰুতগতিত চলি আছে.,as,Neutral,curated_indic_augmented,test
+eebd5644,"Unfortunately, Bakwaas food aur terrible service, bill itna zyada aur taste bilkul zero. Did not expect such poor standards.",hi-en,Negative,curated_indic_augmented,test
+a4906f57,"മികച്ച നിലവാരമുള്ള ഉൽപ്പന്നം, കൃത്യസമയത്ത് എത്തിച്ചു തന്നു!",ml,Positive,curated_indic_augmented,test
+1574cd7d,"ಆ್ಯಪ್ ಪದೇ ಪದೇ ಸ್ಥಗಿತಗೊಳ್ಳುತ್ತದೆ, ತುಂಬಾ ನಿರಾಶಾದಾಯಕ ಅನುಭವ 😠",kn,Negative,curated_indic_augmented,test
+08d36ac6,"பணம் வீணானது, தரம் சற்றும் திருப்திகரமாக இல்லை।",ta,Negative,curated_indic_augmented,test
+05e2861c,"According to the records, Flight status check karne ke liye official airline app open karna hoga. currently under observation.",hi-en,Neutral,curated_indic_augmented,test
+2b017032,ਕਸਟਮਰ ਕੇਅਰ ਟੀਮ ਨੇ ਮੇਰੀ ਮੁਸ਼ਕਲ ਬਹੁਤ ਜਲਦੀ ਅਤੇ ਪਿਆਰ ਨਾਲ ਹੱਲ ਕੀਤੀ ⭐⭐⭐⭐⭐,pa,Positive,curated_indic_augmented,test
+7432c80b,"Very bad experience: Completely misleading description, the product looks nothing like the picture. Avoid at all costs.",en,Negative,curated_indic_augmented,test

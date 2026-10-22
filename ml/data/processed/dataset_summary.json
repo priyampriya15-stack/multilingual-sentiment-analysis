@@ -1,0 +1,29 @@
+{
+  "total_samples": 1905,
+  "train_samples": 1333,
+  "val_samples": 286,
+  "test_samples": 286,
+  "languages_count": 13,
+  "language_distribution": {
+    "en": 225,
+    "hi-en": 220,
+    "ml": 143,
+    "ta": 143,
+    "gu": 142,
+    "te": 142,
+    "kn": 141,
+    "mr": 137,
+    "hi": 125,
+    "bn": 123,
+    "or": 122,
+    "as": 121,
+    "pa": 121
+  },
+  "sentiment_distribution": {
+    "Negative": 717,
+    "Positive": 709,
+    "Neutral": 479
+  },
+  "leakage_check_passed": true,
+  "splits_overlap_count": 0
+}

@@ -1,0 +1,240 @@
+{
+  "supported_languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "native_name": "English",
+      "script": "Latin",
+      "family": "Indo-European (Germanic)",
+      "unicode_range": [["0020", "007F"]],
+      "dataset_availability": "Full",
+      "model_compatibility": ["tfidf_baseline", "xlm_roberta", "indicbert"],
+      "status": "Implemented",
+      "samples": {
+        "positive": "This product exceeded all my expectations, absolutely wonderful quality!",
+        "negative": "Terrible customer service and broken item upon arrival, deeply disappointed.",
+        "neutral": "The package arrived on Wednesday following standard delivery timelines."
+      }
+    },
+    {
+      "code": "hi",
+      "name": "Hindi",
+      "native_name": "हिन्दी",
+      "script": "Devanagari",
+      "family": "Indo-Aryan",
+      "unicode_range": [["0900", "097F"]],
+      "dataset_availability": "Full",
+      "model_compatibility": ["tfidf_baseline", "xlm_roberta", "indicbert"],
+      "status": "Implemented",
+      "samples": {
+        "positive": "यह सेवा वास्तव में अद्भुत और बहुत ही उपयोगी है, मुझे बहुत पसंद आई!",
+        "negative": "बहुत ही घटिया और निराशाजनक अनुभव रहा, समय और पैसे की बर्बादी।",
+        "neutral": "संसद का नया सत्र अगले सप्ताह सोमवार से शुरू होने की संभावना है।"
+      }
+    },
+    {
+      "code": "ta",
+      "name": "Tamil",
+      "native_name": "தமிழ்",
+      "script": "Tamil",
+      "family": "Dravidian",
+      "unicode_range": [["0B80", "0BFF"]],
+      "dataset_availability": "Full",
+      "model_compatibility": ["tfidf_baseline", "xlm_roberta", "indicbert"],
+      "status": "Implemented",
+      "samples": {
+        "positive": "இந்த திரைப்படம் மிகவும் அருமையாக உள்ளது, இசை மற்றும் நடிப்பு பிரமாதம்!",
+        "negative": "மிகவும் மோசமான தரம், வாங்கியதற்கு மிகுந்த வருத்தம் ஏற்படுகிறது.",
+        "neutral": "சென்னையில் இன்று காலை மிதமான மழை பெய்யக்கூடும் என்று வானிலை மையம் தெரிவித்துள்ளது."
+      }
+    },
+    {
+      "code": "te",
+      "name": "Telugu",
+      "native_name": "తెలుగు",
+      "script": "Telugu",
+      "family": "Dravidian",
+      "unicode_range": [["0C00", "0C7F"]],
+      "dataset_availability": "Full",
+      "model_compatibility": ["tfidf_baseline", "xlm_roberta", "indicbert"],
+      "status": "Implemented",
+      "samples": {
+        "positive": "ఈ పుస్తకం చాలా అద్భుతంగా ఉంది, ప్రతి ఒక్కరూ తప్పక చదవాలి!",
+        "negative": "చాలా చెత్త సేవ, అసలు నా సమస్యను పరిష్కరించలేదు.",
+        "neutral": "రేపు ఉదయం హైదరాబాద్ నగరంలో ట్రాఫిక్ ఆంక్షలు అమలులో ఉంటాయి."
+      }
+    },
+    {
+      "code": "ml",
+      "name": "Malayalam",
+      "native_name": "മലയാളം",
+      "script": "Malayalam",
+      "family": "Dravidian",
+      "unicode_range": [["0D00", "0D7F"]],
+      "dataset_availability": "Full",
+      "model_compatibility": ["tfidf_baseline", "xlm_roberta", "indicbert"],
+      "status": "Implemented",
+      "samples": {
+        "positive": "ഈ ഹോട്ടലിലെ ഭക്ഷണം വളരെ രുചികരവും ശുചിത്വമുള്ളതുമാണ്, അഭിനന്ദനങ്ങൾ!",
+        "negative": "വളരെ മോശം പെരുമാറ്റവും കാലതാമസവും, ഇനി ഒരിക്കലും ഇവിടെ പോകില്ല.",
+        "neutral": "തിരുവനന്തപുരത്ത് പുതിയ പാലത്തിന്റെ നിർമ്മാണം അടുത്ത മാസം ആരംഭിക്കും."
+      }
+    },
+    {
+      "code": "kn",
+      "name": "Kannada",
+      "native_name": "ಕನ್ನಡ",
+      "script": "Kannada",
+      "family": "Dravidian",
+      "unicode_range": [["0C80", "0CFF"]],
+      "dataset_availability": "Full",
+      "model_compatibility": ["tfidf_baseline", "xlm_roberta", "indicbert"],
+      "status": "Implemented",
+      "samples": {
+        "positive": "ಈ ಮೊಬೈಲ್ ಫೋನ್ ಕ್ಯಾಮೆರಾ ಅತ್ಯುತ್ತಮವಾಗಿದೆ, ಬ್ಯಾಟರಿ ಬಾಳಿಕೆ ಕೂಡ ಚೆನ್ನಾಗಿದೆ!",
+        "negative": "ತೀರಾ ಕಳಪೆ ಗುಣಮಟ್ಟದ ವಸ್ತು, ಗ್ರಾಹಕ ಬೆಂಬಲ ಸಂಪೂರ್ಣ ನಿಷ್ಪ್ರಯೋಜಕ.",
+        "neutral": "ಬೆಂಗಳೂರಿನಲ್ಲಿ ನಾಳೆ ಸಂಜೆ ಹಗುರ ಮಳೆಯಾಗುವ ಸಾಧ್ಯತೆಯಿದೆ ಎಂದು ಹವಾಮಾನ ಇಲಾಖೆ ತಿಳಿಸಿದೆ."
+      }
+    },
+    {
+      "code": "bn",
+      "name": "Bengali",
+      "native_name": "বাংলা",
+      "script": "Bengali",
+      "family": "Indo-Aryan",
+      "unicode_range": [["0980", "09FF"]],
+      "dataset_availability": "Full",
+      "model_compatibility": ["tfidf_baseline", "xlm_roberta", "indicbert"],
+      "status": "Implemented",
+      "samples": {
+        "positive": "এই নাটকটি সত্যিই অসাধারণ এবং হৃদয়স্পর্শী হয়েছে, সবার অভিনয় চমৎকার!",
+        "negative": "খুবই জঘন্য খাবার এবং চরম অব্যবস্থা, কোনোভাবেই সুপারিশযোগ্য নয়।",
+        "neutral": "কলকাতায় আগামী সপ্তাহে আন্তর্জাতিক বইমেলার উদ্বোধন হতে চলেছে।"
+      }
+    },
+    {
+      "code": "mr",
+      "name": "Marathi",
+      "native_name": "मराठी",
+      "script": "Devanagari",
+      "family": "Indo-Aryan",
+      "unicode_range": [["0900", "097F"]],
+      "dataset_availability": "Full",
+      "model_compatibility": ["tfidf_baseline", "xlm_roberta", "indicbert"],
+      "status": "Implemented",
+      "samples": {
+        "positive": "हा उपक्रम अतिशय सुंदर आणि कौतुकास्पद आहे, सर्वांना खूप खूप शुभेच्छा!",
+        "negative": "अत्यंत निराशाजनक कारभार आणि निकृष्ट दर्जा, कोणतीही मदत मिळाली नाही.",
+        "neutral": "पुणे शहरात मेट्रोच्या नवीन मार्गाची चाचणी यशस्वीरीत्या पूर्ण झाली."
+      }
+    },
+    {
+      "code": "gu",
+      "name": "Gujarati",
+      "native_name": "ગુજરાતી",
+      "script": "Gujarati",
+      "family": "Indo-Aryan",
+      "unicode_range": [["0A80", "0AFF"]],
+      "dataset_availability": "Full",
+      "model_compatibility": ["tfidf_baseline", "xlm_roberta", "indicbert"],
+      "status": "Implemented",
+      "samples": {
+        "positive": "આ પુસ્તક ખૂબ જ પ્રેરણાદાયક અને માહિતીપ્રદ છે, મને ઘણું શીખવા મળ્યું!",
+        "negative": "તદ્દન નકામો પ્રોડક્ટ, બે જ દિવસમાં ખરાબ થઈ ગયો.",
+        "neutral": "અમદાવાદમાં આગામી સપ્તાહે વેપાર મેળો યોજાશે તેવી સત્તાવાર જાહેરાત થઈ છે."
+      }
+    },
+    {
+      "code": "pa",
+      "name": "Punjabi",
+      "native_name": "ਪੰਜਾਬੀ",
+      "script": "Gurmukhi",
+      "family": "Indo-Aryan",
+      "unicode_range": [["0A00", "0A7F"]],
+      "dataset_availability": "Full",
+      "model_compatibility": ["tfidf_baseline", "xlm_roberta", "indicbert"],
+      "status": "Implemented",
+      "samples": {
+        "positive": "ਇਹ ਗੀਤ ਸੁਣ ਕੇ ਮਨ ਖੁਸ਼ ਹੋ ਗਿਆ, ਬਹੁਤ ਹੀ ਖੂਬਸੂਰਤ ਪੇਸ਼ਕਾਰੀ!",
+        "negative": "ਬਹੁਤ ਹੀ ਘਟੀਆ ਸੇਵਾ ਤੇ ਸਮੇਂ ਦੀ ਬਰਬਾਦੀ, ਕੋਈ ਜਵਾਬ ਨਹੀਂ ਮਿਲਿਆ।",
+        "neutral": "ਅੰਮ੍ਰਿਤਸਰ ਵਿੱਚ ਕੱਲ੍ਹ ਸਵੇਰੇ ਧੁੰਦ ਪੈਣ ਦੀ ਸੰਭਾਵਨਾ ਜਤਾਈ ਗਈ ਹੈ।"
+      }
+    },
+    {
+      "code": "or",
+      "name": "Odia",
+      "native_name": "ଓଡ଼ିଆ",
+      "script": "Odia",
+      "family": "Indo-Aryan",
+      "unicode_range": [["0B00", "0B7F"]],
+      "dataset_availability": "Full",
+      "model_compatibility": ["tfidf_baseline", "xlm_roberta", "indicbert"],
+      "status": "Implemented",
+      "samples": {
+        "positive": "ଏହି ଚଳଚ୍ଚିତ୍ରଟି ବହୁତ ସୁନ୍ଦର ଏବଂ ଶିକ୍ଷଣୀୟ, ସମସ୍ତେ ଦେଖିବା ଉଚିତ!",
+        "negative": "ଅତ୍ୟନ୍ତ ଖରାପ ଅନୁଭୂତି, ଟଙ୍କା ସମ୍ପୂର୍ଣ୍ଣ ବୃଥା ଗଲା।",
+        "neutral": "ଭୁବନେଶ୍ୱରରେ ଆଜି ରାଜ୍ୟସ୍ତରୀୟ ବୈଠକ ଅନୁଷ୍ଠିତ ହେବାର କାର୍ଯ୍ୟକ୍ରମ ରହିଛି।"
+      }
+    },
+    {
+      "code": "as",
+      "name": "Assamese",
+      "native_name": "অসমীয়া",
+      "script": "Bengali-Assamese",
+      "family": "Indo-Aryan",
+      "unicode_range": [["0980", "09FF"]],
+      "dataset_availability": "Full",
+      "model_compatibility": ["tfidf_baseline", "xlm_roberta", "indicbert"],
+      "status": "Implemented",
+      "samples": {
+        "positive": "এই প্রদর্শনীখন অতি মনোৰম আৰু সুন্দৰ আছিল, বহুত ভাল লাগিল!",
+        "negative": "অতি নিম্ন মানদণ্ডৰ সেৱা, মাত্ৰ সময় নষ্ট হ'ল।",
+        "neutral": "গুৱাহাটীত কাইলৈ পুৱাৰে পৰা যান-বাহন চলাচল সীমিত কৰা হ'ব বুলি জানিব পৰা গৈছে।"
+      }
+    },
+    {
+      "code": "hi-en",
+      "name": "Hinglish (Code-Mixed)",
+      "native_name": "Hinglish",
+      "script": "Latin",
+      "family": "Code-Mixed Indo-Aryan / English",
+      "unicode_range": [["0020", "007F"]],
+      "dataset_availability": "Full",
+      "model_compatibility": ["tfidf_baseline", "xlm_roberta", "indicbert"],
+      "status": "Implemented",
+      "samples": {
+        "positive": "Movie sach mein bohot mast thi, songs aur acting dono super hit lage!",
+        "negative": "Bakwaas food aur terrible service, bill itna zyada aur test bilkul zero.",
+        "neutral": "Meeting kal subah 10 baje scheduled hai office conference room mein."
+      }
+    },
+    {
+      "code": "ta-en",
+      "name": "Tanglish (Code-Mixed)",
+      "native_name": "Tanglish",
+      "script": "Latin",
+      "family": "Code-Mixed Dravidian / English",
+      "unicode_range": [["0020", "007F"]],
+      "dataset_availability": "Experimental",
+      "model_compatibility": ["tfidf_baseline", "xlm_roberta"],
+      "status": "Experimental",
+      "samples": {
+        "positive": "Padam semma mass bro, bgm vera level la irundhuchu!",
+        "negative": "Romba worst service pa, time waste pannitanga strictly avoid.",
+        "neutral": "Naalaiki evening train timing change aagi irukku check pannikonga."
+      }
+    }
+  ],
+  "sentiment_classes": ["Positive", "Negative", "Neutral"],
+  "class_mapping": {
+    "positive": "Positive",
+    "pos": "Positive",
+    "1": "Positive",
+    "negative": "Negative",
+    "neg": "Negative",
+    "-1": "Negative",
+    "neutral": "Neutral",
+    "neu": "Neutral",
+    "0": "Neutral"
+  }
+}

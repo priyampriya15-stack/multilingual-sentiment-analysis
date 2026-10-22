@@ -1,0 +1,18 @@
+{
+  "random_seed": 42,
+  "max_seq_length": 128,
+  "batch_size": 16,
+  "learning_rate": 2e-5,
+  "num_epochs": 3,
+  "weight_decay": 0.01,
+  "warmup_ratio": 0.1,
+  "evaluation_strategy": "epoch",
+  "save_strategy": "epoch",
+  "load_best_model_at_end": true,
+  "metric_for_best_model": "macro_f1",
+  "greater_is_better": true,
+  "fp16": false,
+  "class_weighting": "balanced",
+  "train_val_test_split": [0.70, 0.15, 0.15],
+  "sample_dataset_mode": false
+}
