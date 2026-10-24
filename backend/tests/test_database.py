@@ -52,7 +52,7 @@ def test_insert_and_query_dataset(db_session):
     ds = DatasetRecord(
         dataset_id=ds_id,
         name="Indic Corpus Test",
-        source="AI4Bharat",
+        source="Curated Synthetic Benchmark",
         language_coverage=["hi", "ta", "te"],
         sample_count=300
     )

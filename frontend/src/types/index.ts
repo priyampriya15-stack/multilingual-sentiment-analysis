@@ -188,21 +188,3 @@ export interface ExperimentItem {
   start_time: string;
   completion_time?: string;
 }
-
-export interface User {
-  email: string;
-  name: string;
-  role: string;
-  institution: string;
-}
-
-export interface LoginResponse {
-  access_token: string;
-  token_type: string;
-  user: User;
-}
-
-export interface LoginCredentials {
-  email: string;
-  password: string;
-}

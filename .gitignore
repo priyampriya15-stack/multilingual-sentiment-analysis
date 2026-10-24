@@ -36,6 +36,8 @@ htmlcov/
 huggingface/
 checkpoints/
 *.ckpt
+*.safetensors
+*.bin
 
 # Node & Frontend
 node_modules/

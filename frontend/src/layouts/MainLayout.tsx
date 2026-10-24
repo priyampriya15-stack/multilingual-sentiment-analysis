@@ -15,8 +15,7 @@ import {
   Menu,
   X,
   Globe2,
-  Cpu,
-  UserCircle
+  Cpu
 } from 'lucide-react';
 import ApiService from '../services/api';
 
@@ -151,16 +150,16 @@ export const MainLayout: React.FC = () => {
           <p className="text-[11px] text-slate-500">Active Model: {defaultModel}</p>
         </div>
 
-        {/* Researcher Profile in Sidebar */}
+        {/* Research Workstation in Sidebar */}
         <div className="px-4 pb-4">
           <div className="p-3 rounded-xl bg-slate-900/60 border border-slate-800/80 flex items-center justify-between">
             <div className="flex items-center gap-2.5 overflow-hidden">
-              <div className="w-8 h-8 rounded-lg bg-indigo-600/20 border border-indigo-500/30 text-indigo-400 flex items-center justify-center shrink-0 text-xs font-bold">
-                A
+              <div className="w-8 h-8 rounded-lg bg-indigo-600/20 border border-indigo-500/30 text-indigo-400 flex items-center justify-center shrink-0">
+                <Globe2 className="w-4 h-4" />
               </div>
               <div className="truncate">
-                <p className="text-xs font-semibold text-slate-200 truncate">Dr. Ananya Sharma</p>
-                <p className="text-[10px] text-slate-400 truncate">researcher@medai.org</p>
+                <p className="text-xs font-semibold text-slate-200 truncate">Research Workstation</p>
+                <p className="text-[10px] text-slate-400 truncate">Multilingual NLP Research</p>
               </div>
             </div>
           </div>
@@ -202,18 +201,18 @@ export const MainLayout: React.FC = () => {
               Swagger Docs
             </a>
 
-            {/* Researcher Profile */}
+            {/* Workstation Identity */}
             <div className="flex items-center gap-2 pl-2 sm:pl-3 border-l border-slate-800">
               <div className="hidden lg:flex items-center gap-2 text-right">
-                <div className="p-1 rounded-full bg-indigo-500/10 text-indigo-400 border border-indigo-500/20">
-                  <UserCircle className="w-4 h-4" />
+                <div className="p-1 rounded-lg bg-indigo-500/10 text-indigo-400 border border-indigo-500/20">
+                  <Cpu className="w-4 h-4" />
                 </div>
                 <div className="text-left">
                   <p className="text-xs font-semibold text-slate-200 leading-none">
-                    Dr. Ananya Sharma
+                    Research Workstation
                   </p>
                   <p className="text-[10px] text-slate-400 leading-tight">
-                    researcher@medai.org
+                    Multilingual NLP Platform
                   </p>
                 </div>
               </div>

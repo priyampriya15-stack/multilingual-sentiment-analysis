@@ -9,10 +9,7 @@ import type {
   DatasetItem,
   ExperimentItem,
   LanguageItem,
-  ModelInfo,
-  LoginResponse,
-  User,
-  LoginCredentials
+  ModelInfo
 } from '../types';
 
 const api = axios.create({
@@ -23,26 +20,7 @@ const api = axios.create({
   },
 });
 
-// Attach JWT token to requests if available
-api.interceptors.request.use((config) => {
-  const token = localStorage.getItem('auth_token');
-  if (token && config.headers) {
-    config.headers.Authorization = `Bearer ${token}`;
-  }
-  return config;
-});
-
 export const ApiService = {
-  // Authentication
-  login: async (credentials: LoginCredentials): Promise<LoginResponse> => {
-    const res = await api.post('/auth/login', credentials);
-    return res.data;
-  },
-
-  getCurrentUser: async (): Promise<User> => {
-    const res = await api.get('/auth/me');
-    return res.data;
-  },
   // Health & Metadata
   getHealth: async () => {
     const res = await api.get('/health');

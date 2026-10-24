@@ -83,16 +83,53 @@ def list_datasets(db: Session = Depends(get_db)):
     """List all registered datasets."""
     records = db.query(DatasetRecord).order_by(DatasetRecord.created_at.desc()).all()
     
-    # Prepend the benchmark dataset
-    eda_file = Path(settings.DATA_DIR) / "eda_summary.json"
+    # Load dynamic statistics from processed dataset summary
+    summary_file = Path(settings.DATA_DIR) / "processed" / "dataset_summary.json"
+    total_samples = 1905
+    train_samples = 1333
+    val_samples = 286
+    test_samples = 286
+    language_coverage = ["en", "hi", "ta", "te", "ml", "kn", "bn", "mr", "gu", "pa", "or", "as", "hi-en"]
+
+    if summary_file.exists():
+        try:
+            with open(summary_file, "r", encoding="utf-8") as f:
+                summary = json.load(f)
+            total_samples = summary.get("total_samples", total_samples)
+            train_samples = summary.get("train_samples", train_samples)
+            val_samples = summary.get("val_samples", val_samples)
+            test_samples = summary.get("test_samples", test_samples)
+            if "language_distribution" in summary:
+                language_coverage = list(summary["language_distribution"].keys())
+        except Exception:
+            pass
+    else:
+        # Fallback to computing directly from processed CSV files
+        processed_dir = Path(settings.DATA_DIR) / "processed"
+        train_csv = processed_dir / "train.csv"
+        val_csv = processed_dir / "val.csv"
+        test_csv = processed_dir / "test.csv"
+        if train_csv.exists() and val_csv.exists() and test_csv.exists():
+            try:
+                df_tr = pd.read_csv(train_csv)
+                df_val = pd.read_csv(val_csv)
+                df_te = pd.read_csv(test_csv)
+                train_samples = len(df_tr)
+                val_samples = len(df_val)
+                test_samples = len(df_te)
+                total_samples = train_samples + val_samples + test_samples
+                language_coverage = list(df_tr["language"].dropna().unique())
+            except Exception:
+                pass
+
     benchmark = {
         "dataset_id": "indic_benchmark_v1",
         "name": "Indian Languages Multilingual Sentiment Benchmark",
-        "source": "AI4Bharat / Curated Indic Benchmark Corpus",
-        "language_coverage": ["en", "hi", "ta", "te", "ml", "kn", "bn", "mr", "gu", "pa", "or", "as", "hi-en"],
-        "sample_count": 1905,
+        "source": "Curated Synthetic Multilingual Sentiment Benchmark",
+        "language_coverage": language_coverage,
+        "sample_count": total_samples,
         "license_info": "CC-BY 4.0 / Research Use",
-        "status": "Processed & Split (Train: 1333, Val: 286, Test: 286)"
+        "status": f"Processed & Split (Train: {train_samples}, Val: {val_samples}, Test: {test_samples})"
     }
 
     user_datasets = [

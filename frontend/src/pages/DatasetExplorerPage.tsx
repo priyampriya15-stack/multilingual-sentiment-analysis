@@ -188,7 +188,7 @@ export const DatasetExplorerPage: React.FC = () => {
                 </label>
                 <input
                   type="text"
-                  placeholder="e.g. AI4Bharat IndicNLP / Academic Corpus"
+                  placeholder="e.g. Curated Multilingual Benchmark / Academic Corpus"
                   value={source}
                   onChange={(e) => setSource(e.target.value)}
                   className="w-full bg-slate-900 border border-slate-700 rounded-xl px-3.5 py-2 text-sm text-slate-200 focus:outline-none focus:border-indigo-500"
